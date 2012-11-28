@@ -1,0 +1,150 @@
+/** Global Styles */
+body {
+  background: #333;
+  color: #000022;
+  font-family: Anaheim, Arial, sans-serif;
+  font-size: 13px;
+}
+
+/** Social networks container. */
+.social {
+  height: 80px;
+  left: 160px;
+  position: absolute;
+  top: 260px;
+  width: 80px;
+  z-index: 10;
+}
+
+/** Social contact link. */
+.social a {
+  display: block;
+  line-height: 40px;
+  text-decoration: none;
+}
+
+/** CV main content container. */
+.content {
+  background: #fff;
+  border-radius: 10px;
+  margin: 60px auto;
+  padding: 40px;
+  position: relative;
+  width: 60%;
+}
+
+/** Github account. */
+.content a.github {
+  display: block;
+  height: 140px;
+  line-height: 140px;
+  position: absolute;
+  right: 0;
+  text-decoration: none;
+  top: 0;
+  width: 149px;
+  z-index: 10;
+}
+
+/** My full name. */
+.content h1 {
+  font-family: Galindo, Arial Black, sans-serif;
+  font-size: 3em;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+/** General lists. */
+.content ul {
+  margin-left: 25px;
+}
+
+/** General list items. */
+.content ul > li {
+  padding: 5px 0;
+  width: 95%;
+}
+
+/** General section. */
+.content > .section {
+  border-bottom: solid 2px #e5e5ff;
+  font-size: 1.5em;
+  /*letter-spacing: 0.15em;*/
+  padding-bottom: 25px;
+  position: relative;
+  width: 100%;
+}
+
+/** First section is my full name. */
+.content > .section:first-child {
+  padding: 0;
+}
+
+/** Section title. */
+.content > .section > .title {
+  background: #e5e5ff;
+  border-bottom-right-radius: 10px;
+  cursor: default;
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 30px;
+  padding: 5px 15px;
+  margin-bottom: 20px;
+  text-align: left;
+  width: 160px;
+}
+
+/** Section content. */
+.content > .section p {
+  padding-left: 25px;
+  margin-bottom: 10px;
+}
+
+/** Top section paragraphs go inline */
+.content > .section {
+  display: inline-block;
+}
+
+/** My Picture: no picture by default, I'm not decent :) */
+.content > .section.about-me .photo {
+  display: none;
+  float: right;
+}
+
+/** About me section content. */
+.content > .section.about-me p {
+  width: 66%;
+}
+
+/** Career summary title. */
+.content > .section.career-summary .title {
+  width: 230px;
+}
+
+/** Employment history title. */
+.content > .section.employment-history .title {
+  width: 280px;
+}
+
+/** Companies and education institutions. */
+.content > .section.education .institution,
+.content > .section.employment-history .company {
+  font-weight: bold;
+}
+
+/** Roles, soft skills. */
+.content > .section.employment-history .role {
+  font-style: oblique;
+}
+
+/** Soft skills. */
+.content > .section.strengths .soft-skill,
+.content > .section.weaknesses .soft-skill {
+  font-weight: bold;
+}
+
+/** Contact section. */
+.content > .section.contact img {
+  vertical-align: middle;
+}

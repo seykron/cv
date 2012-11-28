@@ -1,0 +1,15 @@
+/** Embed comic font. */
+@font-face {
+  font-family: Comic Book;
+  src: url(../font/Comic_Book.ttf);
+}
+
+/** Bubble container. */
+.tweety-bubble {
+  background: url(../image/speech-bubble.png) -7px -7px no-repeat;
+  font-family: Comic Book, Trebuchet MS, serif;
+  height: 115px;
+  padding: 20px 22px;
+  width: 145px;
+  word-wrap: break-word;
+}
