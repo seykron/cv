@@ -1,0 +1,264 @@
+---
+author: Matías Mirabelli
+...
+
+---
+
+## About me
+
+I was raised on Mataderos, City of Buenos Aires, Argentina. When I was ten I
+received my first computer: a Pentium 386 with Windows 3.11. Since then
+computing was one of my main activities together with electronics. My family
+gave me a new computer when I finished the primary school: an AMD-K6-2 500MHz.
+That year I started the electronics-oriented middle school and there was a
+teacher that gave me a full version of Visual Basic 6, so I did start
+programming as a hobby.
+
+When I was sixteen I had to work on a cybercafe at night and I took advantage of
+the free time to get involved with free software and web development. I worked
+two years in the cybercafe until I finished the middle school and during that
+time I did also get involved in infrastructure, computer security and low-level
+development by using microcontrollers. I made some minor jobs as freelance
+developer, including coorporative websites and a travel management system for a
+rent-a-car shop.
+
+Another of my interests during the middle school were reading, writing and
+philosophy. Indeed, I participated in philosophy competitions and I used to
+write a blog where I met a lot of people with similar interests. When I finished
+the middle school I decided to continue working in software development since it
+was my hobby and occupation, but at the same time my curiosity about human
+beings encouraged me to take a carrier oriented to my other passions: writing
+and studying cultures as the expression of human experience.
+
+However, I deferred the humanities career some years in order to learn and dive
+myself into software development as my main profession. Finally, after a couple
+of years I started the career Social and Cultural Anthropology at National
+University of San Martín. This career strengthen other interests: travel to new
+places, talk to people to get to know how they live, learn about popular art as
+the expression of people's morality, singing and dancing, among others.
+
+Nowadays all these activities complement my passion for software development and
+they are translated into the software development for organizations and social
+movements engaged with the communities' real problems.
+
+---
+
+## Languages
+
+* Spanish (mother tongue)
+
+* English (upper-intermediate)
+
+* Esperanto (progresanta)
+
+---
+
+## Experience in Software Development
+
+### Freelance (2004 - 2006)
+
+My first jobs were as freelance programmer. Some projects to mention are the
+coorporative website for the Labyes laboratory and a travel management system
+for a rent-a-car shop developed in Visual Basic. At the same time I also
+developed several sites by using Wordpress and Drupal.
+
+*Technologies: PHP, HTML, CSS, JavaScript, Visual Basic, MS Access, Symfony 1.0*
+
+### Netic infoservicios (2006)
+
+After finishing the middle-school I started working as Visual Basic programmer
+at a very small business which had a product to perform search engines
+optimizations (SEO). I was the only programmer there and with few tools I had to
+solve some architectural and distribution problems. The product was a suite with
+a couple of applications interacting between them in order to generate micro-
+sites with different contents. This suite was distributed as a self-contained
+installation package. I left this job because my boss ask me to emit illegal
+receipts.
+
+*Technologies: Visual Basic, MS Access,
+[NSIS](https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System)*
+
+### W3americas (2006 - 2007)
+
+Mi next job was at W3, a systems consulting company focused on web development
+and maintenance for third party customers. I worked on the progressive
+maintenance of Citibank Brasil website. I participated in the site's full
+redesign, mainly developing components that required integration with third-
+party services like stock exchange tables and currency values, among others. It
+was my first direct experience with customers, since often I had to coordinate
+tasks with them. In my free time I did learn about system design principles and
+Java web applications development. After the site's redesign I left this company
+because it became boring and there was no development at all, only maintenance.
+
+*Technologies: SourceSafe, Perl, HTML, CSS, JavaScript*
+
+### CDA (2007 - 2009)
+
+After leaving W3 I did start working as Java programmer in CDA, an HR consulting
+company. I worked in the development of internal HR systems such as admissions,
+retirements, vacations, etc., so I learnt about HR processes. I also had the
+chance to bootstrap a project: a system to implement SOX controls in order to
+trace processes within a local bank. Once finished, I left this job because the
+heads of the systems development area mistreated people. I learnt about
+technical management of development projects, experience in different Java
+technologies, and expertise in resolution of infrastructure problems such as
+storage, load balancing, packaging and distribution of Java applications.
+
+*Technologies: SVN, Ant, Java EE (v1.4/1.6 + Web Services), Sybase DB, Ibatis,
+Struts, JSP, HTML, CSS, JavaScript, Flex (ActionScript 3, Cairngorm)*
+
+### Globant (2009 - 2013)
+
+My next job was at Globant, another RH consulting company. I get into the
+company as web developer for JWT. The project consisted in a full reengineering
+of a content management system. It organized digital content such as documents,
+images and videos, and one of the main requirements was to be able to reuse the
+same platform for different customers; it should be customizable and scalable so
+JWT could be able to resell the product to their customers. Unlike CDA where I
+did work with a classical request/response application model, we used a service-
+oriented application model in this project, so most part of application
+responsibility was delegated to the frontend.
+
+Here I had my first experience coordinating a development team for JWT. We
+started a new project to solve a problem related to JWT agencies fragmentation
+around the world. Agencies from different parts of the world would be able to
+submit creative ideas to projects, interact between people, share content and
+meet other people jobs through a social network for projects. In order to
+encourage participation, ideas for a project were voted by colleagues so the
+winner idea would be implemented. Before the beginning I had to estimate the
+whole effort, create the base infrastructure to let the team work on the source
+code and agree with the customer how should we deliver and show advances on the
+project. Once started, my role consisted in estimating with the team the
+different components and split them into *sprints*, talk to the customer and, of
+course, code with the team and help to solve technical issues.
+
+This project was a success case and one of my major learnings here was that when
+dealing with applications with complex flows, the service-oriented programming
+may look like an advantage in the beginning, but maintaining an anemic domain is
+very expensive at mid-term and it is unfeasible for products that need a
+constant and long-term evolution, saving exceptions. I learn to manage AWS
+services and solve complex infrastructure problems like managing distributed
+search indexes.
+
+After more than two years working for JWT I started to deal with a new company's
+customer: 55social. The challenge was to build a social media management
+platform to make the content management and marketing campaings easier in social
+networks. Thanks to a small and excelent development team the product was online
+after four months. After two years of development, the company left Globant and
+I continued working with them.
+
+*Technologies: SVN, GIT, Maven, Java EE, MySQL, JackRabbit, Hibernate, Spring
+MVC, jawr, Freemarker, YahooUI, AWS, ImageMagick, FFMPeg*
+
+### 55Social (since 2013)
+
+Since then I work at 55social, a company whose main market are digital agencies
+from Brazil. We chosen an hybrid request/response programming model with a rich
+front-end but lacking functional responsibilities. As design practices we use
+*domain driven design* and TDD. As organizing principles we use the Martin
+Fowler's Rule of Three for refactoring, the Robert Martin's *Single
+Responsibility Principle* and dependency injection.
+
+The work is feature-oriented and we set commitment by sprints. Feature
+development time may vary, so to show progress we split up sprints into
+checkpoints to focus development in a specific aspect of the feature.
+
+While I was at Globant and 55social I made interviews and I prepared some
+workshops and trainings.
+
+*Technologies: GIT, Maven, Java EE, Hibernate, Spring MVC,
+[Katari](https://github.com/katari/Katari), Elastic Search, Freemarker, Social
+APIs (Facebook, Twitter, Google Plus), jQuery UI,
+[Histone](https://github.com/MegafonWebLab/histone-javascript),
+[OOCSS](https://en.wikipedia.org/wiki/OOCSS), AWS*
+
+### Software libre
+
+During many years I developed, maintained and collaborated in different free
+software projects. The logic behind a free software organization is quite
+different than the business logic, so the experience managing both kind of
+projects helped me to develop a critical view of leadership, mainly oriented to
+problems resolution through collaboration. Many of the projects I started no
+longer exist, but there are a couple that are still published on github and I
+would like to comment on the ones I consider more relevant.
+
+#### I stop it (Yo los paro)
+
+[Yo los paro](http://yolosparo.org) is a campaign to advice people about
+irregularities in the new argentinian Fuel Law that was finally approved on
+2014. The campaign goal was to promote people's direct participation, so without
+any kind of registration they could send messages to the national legislatives.
+The long-term goal is to transform this single campaign into a [direct
+participation platform](https://github.com/piratas-
+ar/yolosparo/tree/feature/support- multiple-campaigns).
+
+* [Github Repository](https://github.com/piratas-ar/yolosparo)
+* [Site](http://yolosparo.org)
+
+*Technologies: Grunt, JavaScript (NodeJS), MySQL, ExpressJS, Handlebars*
+
+#### Argentine congress data importer
+
+[ogov-importer](https://github.com/seykron/ogov-importer) retrieves all bills
+and their votes from the Argentine National Congress since 2001 until nowdays,
+the list of current legislatives and the committees meetings and agendas, among
+other things. The importer is generic and it is designed to make a fast and
+efficient crawling of any site.
+
+* [Github Repository](https://github.com/seykron/ogov-importer)
+
+*Technologies: Grunt, JavaScript (NodeJS),
+[Cheerio](https://github.com/cheeriojs/cheerio)*
+
+#### Paperhub
+
+[Paperhub](https://github.com/seykron/paperhub) is a proof of concept of a
+collaborative document editor reading documents from Github. It uses
+[etherpad](http://etherpad.org/) as editor and [pandoc](http://pandoc.org/) to
+export documents to PDF.
+
+* [Github Repository](https://github.com/seykron/paperhub)
+
+*Technologies: JavaScript (NodeJS), Memcached, ExpressJS, Handlebars, Github
+API*
+
+#### IRC client API
+
+[irc-client-api](https://github.com/seykron/irc-client-api) allows to connect to
+IRC servers from the web browser through a low-level API. It supports different
+transports, so it might be adapted to different devices and environments.
+
+* [Github Repository](https://github.com/seykron/irc-client-api)
+
+*Technologies: Grunt, JavaScript (NodeJS), WebSockets*
+
+#### Pirate crew
+
+[Pirate crew](https://github.com/piratas-ar/pirate-crew) is a secure
+registration form whose main goal is to allow people to register while it
+protects the data so no one with physical access to the server can read it. It
+encrypts the person information in the browser with a public key, and the
+underlying private key is supposed to be splitted into many pieces and
+distributed by different people.
+
+* [Github Repository](https://github.com/piratas-ar/pirate-crew)
+
+*Technologies: JavaScript (NodeJS), ExpressJS, Handlebars, OpenPGP.js*
+
+---
+
+## Formal Education
+
+* National University of San Martín (ongoing) - *Social and Cultural
+Anthropology*
+
+* E.N.E.T N°17 D.E. 20 (2001 - 2006) - *Electronic Technician*
+
+* Alfonsina Storni (Primary School)
+
+---
+
+## Contact
+
+You can contact me by email to [matt@spiria.me](mailto:matt@spiria.me). Personal
+references on request.

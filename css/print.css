@@ -1,7 +1,23 @@
 body {
+  background: #ffffff;
   margin: 0;
   padding: 0;
   width: 98%;
+}
+
+.content {
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+}
+
+h2 {
+  background: #ffffff;
+  margin-top: 15px;
+}
+
+a:link, a:visited, a:hover {
+  color: inherit;
 }
 
 #social {
@@ -23,4 +39,16 @@ body {
 .content > .section {
   margin: 0;
   width: 95%;
+}
+
+ul > li > a {
+  display: none;
+}
+
+hr {
+  display: none;
+}
+
+.flag {
+  display: none;
 }

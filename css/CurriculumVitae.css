@@ -1,9 +1,43 @@
+/** RESET BLOCK */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+/** END OF RESET BLOCK */
+
 /** Global Styles */
 body {
   background: #333;
   color: #000022;
-  font-family: Anaheim, Arial, sans-serif;
-  font-size: 13px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
 }
 
 /** Social networks container. */
@@ -47,104 +81,98 @@ body {
 }
 
 /** My full name. */
-.content h1 {
-  font-family: Galindo, Arial Black, sans-serif;
-  font-size: 3em;
+h1 {
+  font-family: Arial Black, sans-serif;
+  font-size: 2em;
   margin-bottom: 30px;
-  text-align: left;
 }
 
-/** General lists. */
-.content ul {
-  margin-left: 25px;
+/** Section title. */
+h2 {
+  background: #e5e5ff;
+  border-bottom-right-radius: 10px;
+  display: inline-block;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 5px 15px 0 15px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-style: italic;
+  font-weight: bold;
+  padding: 20px 0px 0 25px;
+}
+
+h4 {
+  font-style: italic;
+  padding: 20px 0px 0 25px;
+  text-decoration: underline;
+}
+
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p {
+  margin: 10px 25px 0 25px;
+}
+
+/** Paragraphs. */
+p {
+  line-height: 1.5em;
+  margin: 25px 25px 0 25px;
+  text-align: justify;
+}
+
+a:link, a:visited {
+  color: #666666;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aeaeae;
+  text-decoration: underline;
+}
+
+em {
+  font-style: italic;
+}
+
+ul {
+  margin: 0 0 0 25px;
+}
+
+ul > li > p {
+  margin: 0;
+}
+
+ul > li > a {
+  font-size: .9em;
 }
 
 /** General list items. */
-.content ul > li {
+ul > li {
   padding: 5px 0;
   width: 95%;
 }
 
-/** General section. */
-.content > .section {
-  border-bottom: solid 2px #e5e5ff;
-  font-size: 1.5em;
-  /*letter-spacing: 0.15em;*/
-  padding-bottom: 25px;
-  position: relative;
-  width: 100%;
+hr {
+  border: solid 2px #e5e5ff;
+  margin: 20px 0 0 0;
 }
 
-/** First section is my full name. */
-.content > .section:first-child {
-  padding: 0;
-}
-
-/** Section title. */
-.content > .section > .title {
-  background: #e5e5ff;
-  border-bottom-right-radius: 10px;
-  cursor: default;
-  display: block;
-  font-size: 1.5em;
-  font-weight: bold;
-  line-height: 30px;
-  padding: 5px 15px;
-  margin-bottom: 20px;
-  text-align: left;
-  width: 160px;
-}
-
-/** Section content. */
-.content > .section p {
-  padding-left: 25px;
-  margin-bottom: 10px;
-}
-
-/** Top section paragraphs go inline */
-.content > .section {
+.flag {
+  background: url(../image/flags.gif) no-repeat 0;
   display: inline-block;
+  height: 20px;
+  width: 24px;
 }
 
-/** My Picture: no picture by default, I'm not decent :) */
-.content > .section.about-me .photo {
-  display: none;
-  float: right;
+.flag.ar {
+  background-position: 0 1px;
 }
 
-/** About me section content. */
-.content > .section.about-me p {
-  width: 66%;
-}
-
-/** Career summary title. */
-.content > .section.career-summary .title {
-  width: 230px;
-}
-
-/** Employment history title. */
-.content > .section.employment-history .title {
-  width: 280px;
-}
-
-/** Companies and education institutions. */
-.content > .section.education .institution,
-.content > .section.employment-history .company {
-  font-weight: bold;
-}
-
-/** Roles, soft skills. */
-.content > .section.employment-history .role {
-  font-style: oblique;
-}
-
-/** Soft skills. */
-.content > .section.strengths .soft-skill,
-.content > .section.weaknesses .soft-skill {
-  font-weight: bold;
-}
-
-/** Contact section. */
-.content > .section.contact img {
-  vertical-align: middle;
+.flag.uk {
+  background-position: 0 -18px;
 }
