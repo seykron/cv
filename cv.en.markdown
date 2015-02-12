@@ -1,5 +1,8 @@
 ---
 author: Matías Mirabelli
+lang: en
+messages:
+  otherFormats: Other formats
 ...
 
 ---

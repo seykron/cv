@@ -41,6 +41,10 @@ a:link, a:visited, a:hover {
   width: 95%;
 }
 
+.formats {
+  display: none;
+}
+
 ul > li > a {
   display: none;
 }

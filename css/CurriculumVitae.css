@@ -57,11 +57,23 @@ body {
   text-decoration: none;
 }
 
+/** File formats links container. */
+.formats {
+  color: #666666;
+  margin: 10px auto;
+  text-align: right;
+  width: 60%;
+}
+
+.formats img {
+  vertical-align: middle;
+}
+
 /** CV main content container. */
 .content {
   background: #fff;
   border-radius: 10px;
-  margin: 60px auto;
+  margin: 30px auto;
   padding: 40px;
   position: relative;
   width: 60%;
