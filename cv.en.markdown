@@ -5,6 +5,48 @@ messages:
   otherFormats: Other formats
 ...
 
+<div class="printable">
+
+---
+
+## About me
+
+I am a software developer with more than ten years experience designing web
+solutions. I worked with both backend and frontend technologies such as PHP,
+Java, NodeJS, HTML/CSS/JavaScript, Flex (ActionScript 3). I also worked with
+different data storage technologies like Sybase, MySQL, HSQLDB, Sqlite, MongoDB,
+JackRabbit; key-value indexes and caches like Redis, Elastic Search and
+Memcached. I was involved in the design and development of several systems
+related to content management, social networks, advertising and data analysis. I
+appreciate team working and everything related to it: developing based on design
+principles and good practices, making peer reviews, building common knowledge,
+adopting organization methodologies when it is required. I think that putting
+people over processes is the key to success, that's because I usually push to
+implement lean development when possible.
+
+I support the free software philosophy. I am involved in the free software
+community and I try to use and contribute to free software when possible. In my
+free time I develop social tools to encourage government transparency, people
+organization and group decision making. I study Social and Cultural Anthropology
+at National University of San Martín and I developed several tools as part of my
+researches on social movements and politics.
+
+---
+
+## Links
+
+* Github: https://github.com/seykron/
+
+* Resume: http://spiria.me/cv/
+
+* Blog (spanish): http://spiria.me
+
+* Twitter: https://twitter.com/matias_mi
+
+</div>
+
+<div class="non-printable">
+
 ---
 
 ## About me
@@ -45,6 +87,8 @@ Nowadays all these activities complement my passion for software development and
 they are translated into the software development for organizations and social
 movements engaged with the communities' real problems.
 
+</div>
+
 ---
 
 ## Languages
@@ -61,14 +105,18 @@ movements engaged with the communities' real problems.
 
 ### Freelance (2004 - 2006)
 
+##### *Technologies: PHP, HTML, CSS, JavaScript, Visual Basic, MS Access,
+Symfony 1.0*
+
 My first jobs were as a freelance programmer. Some projects to mention are the
 coorporative website for the Labyes Laboratory and a travel management system
 for a rent-a-car shop developed in Visual Basic. At the same time I was also
 developing several sites by using Wordpress and Drupal.
 
-*Technologies: PHP, HTML, CSS, JavaScript, Visual Basic, MS Access, Symfony 1.0*
-
 ### Netic infoservicios (2006)
+
+##### *Technologies: Visual Basic, MS Access,
+[NSIS](https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System)*
 
 After finishing middle-school I started working as a Visual Basic programmer at
 a very small business which had a product that consisted in performing search
@@ -79,10 +127,9 @@ to generate micro- sites with different contents. This suite was distributed as
 a self-contained installation package. I left this job because my boss asked me
 to emit illegal receipts.
 
-*Technologies: Visual Basic, MS Access,
-[NSIS](https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System)*
-
 ### W3americas (2006 - 2007)
+
+##### *Technologies: SourceSafe, Perl, HTML, CSS, JavaScript*
 
 My next job was at W3, a system consulting company focused on web development
 and maintenance for third party customers. I worked on the progressive
@@ -95,9 +142,10 @@ principles and Java web applications development. After the site's redesign I
 left this company because it became boring and there was no development at all,
 only maintenance.
 
-*Technologies: SourceSafe, Perl, HTML, CSS, JavaScript*
-
 ### CDA (2007 - 2009)
+
+##### *Technologies: SVN, Ant, Java EE (v1.4/1.6 + Web Services), Sybase DB,
+Ibatis, Struts, JSP, HTML, CSS, JavaScript, Flex (ActionScript 3, Cairngorm)*
 
 After leaving W3 I started working as Java programmer in CDA, an HR consulting
 company. I worked in the development of internal HR systems such as admissions,
@@ -110,10 +158,10 @@ technologies, and gained expertise in the resolution of infrastructure problems
 such as storage, load balancing, packaging and distribution of Java
 applications.
 
-*Technologies: SVN, Ant, Java EE (v1.4/1.6 + Web Services), Sybase DB, Ibatis,
-Struts, JSP, HTML, CSS, JavaScript, Flex (ActionScript 3, Cairngorm)*
-
 ### Globant (2009 - 2013)
+
+##### *Technologies: SVN, GIT, Maven, Java EE, MySQL, JackRabbit, Hibernate,
+Spring MVC, jawr, Freemarker, YahooUI, AWS, ImageMagick, FFMPeg*
 
 My next job was at Globant, another HR consulting company. I entered the company
 as a web developer for JWT. The project consisted in a full reengineering of a
@@ -153,10 +201,13 @@ networks. Thanks to a small and excellent development team the product was
 online after only four months. After two years of development, the company left
 Globant and I continued working for 55social.
 
-*Technologies: SVN, GIT, Maven, Java EE, MySQL, JackRabbit, Hibernate, Spring
-MVC, jawr, Freemarker, YahooUI, AWS, ImageMagick, FFMPeg*
-
 ### 55Social (since 2013)
+
+##### *Technologies: GIT, Maven, Java EE, Hibernate, Spring MVC,
+[Katari](https://github.com/katari/Katari), Elastic Search, Freemarker, Social
+APIs (Facebook, Twitter, Google Plus), jQuery UI,
+[Histone](https://github.com/MegafonWebLab/histone-javascript),
+[OOCSS](https://en.wikipedia.org/wiki/OOCSS), AWS*
 
 Since then I have been working at 55social, a company whose main market is
 digital agencies from Brazil. We chose a hybrid request/response programming
@@ -173,12 +224,6 @@ show concrete progress.
 While I was at Globant and 55social I was responsible for job interviews and I
 prepared both workshops and trainings.
 
-*Technologies: GIT, Maven, Java EE, Hibernate, Spring MVC,
-[Katari](https://github.com/katari/Katari), Elastic Search, Freemarker, Social
-APIs (Facebook, Twitter, Google Plus), jQuery UI,
-[Histone](https://github.com/MegafonWebLab/histone-javascript),
-[OOCSS](https://en.wikipedia.org/wiki/OOCSS), AWS*
-
 ### Software libre
 
 I developed, maintained and collaborated in different free software projects
@@ -191,6 +236,8 @@ and I would like to comment on the ones I consider more relevant.
 
 #### I stop it (Yo los paro)
 
+##### *Technologies: Grunt, JavaScript (NodeJS), MySQL, ExpressJS, Handlebars*
+
 [Yo los paro](http://yolosparo.org) is a campaign to warn people about
 irregularities in the new argentinian Fuel Law that was finally approved in
 2014. The campaign goal was to promote people's direct participation, so without
@@ -202,9 +249,10 @@ ar/yolosparo/tree/feature/support- multiple-campaigns).
 * [Github Repository](https://github.com/piratas-ar/yolosparo)
 * [Site](http://yolosparo.org)
 
-*Technologies: Grunt, JavaScript (NodeJS), MySQL, ExpressJS, Handlebars*
-
 #### Argentine congress data importer
+
+##### *Technologies: Grunt, JavaScript (NodeJS),
+[Cheerio](https://github.com/cheeriojs/cheerio)*
 
 [ogov-importer](https://github.com/seykron/ogov-importer) retrieves all bills
 and their votes from the Argentine National Congress since 2001 until nowadays,
@@ -214,10 +262,10 @@ efficient crawling of any site.
 
 * [Github Repository](https://github.com/seykron/ogov-importer)
 
-*Technologies: Grunt, JavaScript (NodeJS),
-[Cheerio](https://github.com/cheeriojs/cheerio)*
-
 #### Paperhub
+
+##### *Technologies: JavaScript (NodeJS), Memcached, ExpressJS, Handlebars,
+Github API*
 
 [Paperhub](https://github.com/seykron/paperhub) is a proof of concept of a
 collaborative document editor reading documents from Github. It uses
@@ -226,10 +274,9 @@ export documents to PDF.
 
 * [Github Repository](https://github.com/seykron/paperhub)
 
-*Technologies: JavaScript (NodeJS), Memcached, ExpressJS, Handlebars, Github
-API*
-
 #### IRC client API
+
+##### *Technologies: Grunt, JavaScript (NodeJS), WebSockets*
 
 [irc-client-api](https://github.com/seykron/irc-client-api) allows to connect to
 IRC servers from the web browser through a low-level API. It supports different
@@ -237,9 +284,9 @@ transports, so it might be adapted to different devices and environments.
 
 * [Github Repository](https://github.com/seykron/irc-client-api)
 
-*Technologies: Grunt, JavaScript (NodeJS), WebSockets*
-
 #### Pirate crew
+
+##### *Technologies: JavaScript (NodeJS), ExpressJS, Handlebars, OpenPGP.js*
 
 [Pirate crew](https://github.com/piratas-ar/pirate-crew) is a secure
 registration form whose main goal is to allow people to register while it
@@ -249,8 +296,6 @@ underlying private key is supposed to be splitted into many pieces and
 distributed by different people.
 
 * [Github Repository](https://github.com/piratas-ar/pirate-crew)
-
-*Technologies: JavaScript (NodeJS), ExpressJS, Handlebars, OpenPGP.js*
 
 ---
 

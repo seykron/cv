@@ -40,6 +40,18 @@ body {
   font-size: 18px;
 }
 
+#summary {
+  display: none;
+}
+
+#links {
+  display: none;
+}
+
+.printable {
+  display: none;
+}
+
 /** Social networks container. */
 .social {
   height: 80px;
@@ -123,10 +135,16 @@ h4 {
   text-decoration: underline;
 }
 
+h5 {
+  line-height: 1.5em;
+  margin: 20px 25px 0 25px;
+}
+
 h1 + p,
 h2 + p,
 h3 + p,
-h4 + p {
+h4 + p,
+h5 + p {
   margin: 10px 25px 0 25px;
 }
 
@@ -149,6 +167,10 @@ a:hover {
 
 em {
   font-style: italic;
+}
+
+strong {
+  font-weight: bold;
 }
 
 ul {

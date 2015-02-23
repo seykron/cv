@@ -20,6 +20,14 @@ a:link, a:visited, a:hover {
   color: inherit;
 }
 
+.printable {
+  display: block;
+}
+
+.non-printable {
+  display: none;
+}
+
 #social {
   display: none;
 }
@@ -54,5 +62,9 @@ hr {
 }
 
 .flag {
+  display: none;
+}
+
+#sobre-mi {
   display: none;
 }

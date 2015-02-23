@@ -5,6 +5,50 @@ messages:
   otherFormats: Otros formatos
 ...
 
+
+<div class="printable">
+
+---
+
+## Sobre mi
+
+Soy un desarrollador de software con más de diez años de experiencia diseñando
+soluciones web. Trabajé con tecnologías de backend y frontend como PHP, Java,
+NodeJS, HTML/CSS/JavaScript, Flex (ActionScript 3). También trabajé con
+diferentes tecnología de almacenamiento de datos como Sybase, MySQL, HSQLDB,
+Sqlite, MongoDB y JackRabbit; key-value indexes y caches como Redis, Elastic
+Search y Memcached. Participé en el diseño y desarrollo de varios sistemas
+relacionados con gestión de contenido, redes sociales, advertising y análisis de
+datos. Valoro el trabajo en grupo y todo lo relacionado con ello: desarrollar en
+base a principios y buenas prácticas, hacer reviews de código, construir
+conocimiento común, adoptar metodologías de organización cuando es necesario.
+Pienso que poner a las personas sobre los procesos es la clave del éxito, por
+eso a menudo impulso la implementación de metodologías ágiles cuando es posible.
+
+Adhiero a la filosofía del software libre. Participo en la comunidad y trato de
+usar y contribuir al software libre cuando es posible. En mi tiempo libre
+desarrollo herramientas sociales para fomentar la transparencia gubernamental,
+la organización social y la toma de decisiones colectivas. Estudio Antropología
+Social y Cultural en la Universidad de San Martín y desarrollé varias
+herramientas como parte de mis investigaciones sobre política y movimientos
+sociales.
+
+---
+
+## Links
+
+* Github: https://github.com/seykron/
+
+* Resume: http://spiria.me/cv/
+
+* Blog: http://spiria.me
+
+* Twitter: https://twitter.com/matias_mi
+
+</div>
+
+<div class="non-printable">
+
 ---
 
 ## Sobre mi
@@ -46,6 +90,7 @@ Hoy en día todas estas actividades se complementan con mi pasión por el
 desarrollo de software y se traduce en el desarrollo de software libre para
 organizaciones y movimientos que tienen compromisos reales con la comunidad.
 
+</div>
 
 ---
 
