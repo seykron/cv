@@ -40,14 +40,6 @@ body {
   font-size: 18px;
 }
 
-#summary {
-  display: none;
-}
-
-#links {
-  display: none;
-}
-
 .printable {
   display: none;
 }

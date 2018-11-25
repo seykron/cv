@@ -1,4 +1,5 @@
 ---
+title: Curriculum Vitae
 author: Matías Mirabelli
 job: Desarrollador de software
 lang: es
@@ -7,90 +8,65 @@ messages:
   otherFormats: Otros formatos
 ...
 
+---
+
+## Sobre mi
+
+Soy desarrollador de software y tengo más de diez años de experiencia en la
+industria. Me especialicé en el desarrollo de aplicaciones web. Desarrollé
+sitios web, aplicaciones clásicas request/response, aplicaciones ricas con gran
+cantidad de componentes e interacción de los usuarios, servicios de backend,
+servicios de infraestructura como colas y caches, y herramientas de
+procesamiento y análisis de datos, entre otras cosas. Trabajé con arquitecturas
+de web services (SOAP), microservicios (REST), web sockets, y request/response
+clásicos (MVC, streaming), entre otras. Tengo experiencia en la integración con
+APIs de proveedores y diferentes orígenes de datos.
+
+En desarrollo de backend, trabajé con varios stacks de frameworks en ~~PHP~~,
+Java, Scala, Kotlin y NodeJS. Entre los problemas comunes de backend que
+resolví, puedo mencionar autenticación, sesiones, transaccionalidad, acceso a
+datos, búsqueda de texto libre, manejo de operaciones asincrónicas, gestión y
+compresión de recursos estáticos (JavaScript, CSS, imágenes, videos, etc.),
+soporte de idiomas, geolocalización, clusterización de procesamiento y de datos,
+storage de contenido, seguridad de datos, entre otras cosas.
+
+En desarrollo frontend, considero más importante el diseño de arquitectura que
+el conocimiento específico de frameworks. Entre los problemas de arquitectura
+comunes que resolví puedo destacar el diseño de componentes reutilizables, la
+optimización de recursos en favor de la experiencia del usuario, el manejo de
+operaciones cross-domain, la personalización, el desarrollo progresivo y
+activación de features por usuario, el manejo y la persitencia de estado,
+soporte de idiomas, entre otras cosas. Algunos de los frameworks y utilidades
+que usé son jQuery, underscore.js, backbone, angularjs, knockoutjs, jqueryUI, y
+lessCSS.
+
+Valoro el trabajo en equipo y las prácticas para garantizar la calidad:
+desarrollar en base a principios, buenas prácticas y convenciones, hacer reviews
+de código, construir conocimiento común a través del diálogo y el diseño de
+soluciones, adoptar metodologías de organización cuando es necesario. Pienso que
+poner a las personas sobre los procesos es la clave del éxito de cualquier
+proyecto.
+
+Apoyo la filosofía del software libre. Participo en la comunidad y trato de usar
+y contribuir al software libre cuando es posible. En mi tiempo libre desarrollo
+herramientas sociales para fomentar la transparencia gubernamental, la
+organización social y la toma de decisiones colectivas. Estudio Antropología
+Social y Cultural en la Universidad de San Martín y desarrollé varias
+herramientas como parte de mis investigaciones sobre política y movimientos
+sociales.
+
 
 <div class="printable">
 
 ---
 
-## Sobre mi
-
-Soy un desarrollador de software con más de diez años de experiencia diseñando
-soluciones web. Trabajé con tecnologías de backend y frontend como PHP, Java,
-NodeJS, HTML/CSS/JavaScript, Flex (ActionScript 3). También trabajé con
-diferentes tecnología de almacenamiento de datos como Sybase, MySQL, HSQLDB,
-Sqlite, MongoDB y JackRabbit; key-value indexes y caches como Redis, Elastic
-Search y Memcached. Participé en el diseño y desarrollo de varios sistemas
-relacionados con gestión de contenido, redes sociales, advertising y análisis de
-datos. Valoro el trabajo en grupo y todo lo relacionado con ello: desarrollar en
-base a principios y buenas prácticas, hacer reviews de código, construir
-conocimiento común, adoptar metodologías de organización cuando es necesario.
-Pienso que poner a las personas sobre los procesos es la clave del éxito, por
-eso a menudo impulso la implementación de metodologías ágiles cuando es posible.
-
-Adhiero a la filosofía del software libre. Participo en la comunidad y trato de
-usar y contribuir al software libre cuando es posible. En mi tiempo libre
-desarrollo herramientas sociales para fomentar la transparencia gubernamental,
-la organización social y la toma de decisiones colectivas. Estudio Antropología
-Social y Cultural en la Universidad de San Martín y desarrollé varias
-herramientas como parte de mis investigaciones sobre política y movimientos
-sociales.
-
----
-
 ## Links
 
-* Github: https://github.com/seykron/
+* Github: https://github.com/seykron
 
-* Resume: http://spiria.me/cv/
-
-* Blog: http://spiria.me
+* Resume: http://seykron.github.io/cv
 
 * Twitter: https://twitter.com/matias_mi
-
-</div>
-
-<div class="non-printable">
-
----
-
-## Sobre mi
-
-Nací en Mataderos, Ciudad Autónoma de Buenos Aires, Argentina. A los diez años
-me regalaron mi primer computadora: una Pentium 386 con Windows 3.11. Desde
-entonces la informática fue una de mis actividades principales junto a la
-electrónica. Al terminar la escuela primaria recibí como regalo de mi familia
-otra computadora: una AMD-K6-2 de 500MHz. Ese mismo año comencé la escuela media
-con orientación a electrónica y a través de un profesor conocí Visual Basic y
-empecé a programar en este lenguaje como pasatiempo.
-
-A los dieciseis años tuve que trabajar durante la tarde-noche en un cybercafé, y
-aproveché el tiempo libre para incursionar en el software libre y el desarrollo
-web. Trabajé dos años en el cybercafé hasta que terminé el secundario, y durante
-este tiempo, además del desarrollo web, investigué y me interioricé en
-infraestructura, seguridad informática y desarrollo a bajo nivel utilizando
-microcontroladores. También realicé algunos trabajos freelance como sitios web
-corporativos y un sistema de gestión de viajes para una remisería.
-
-Otro de mis intereses durante la escuela media fue la lectura, la escritura y la
-filosofía. Participé de olimpiadas de filosofía y durante años escribí un blog a
-través del cual conocí a muchas personas con intereses similares. Al terminar la
-escuela media estaba decidido a seguir trabajando en desarrollo ya que era mi
-pasatiempo y mi especialidad, pero al mismo tiempo la curiosidad por las
-humanidades me llamaba a estudiar una carrera orientada a mis otras pasiones: la
-escritura y la cultura como expresión de la experiencia y las relaciones
-humanas.
-
-Sin embargo, pospuse el comienzo de la carrera algunos años para especializarme
-en la profesión de desarrollador, y finalmente comencé la carrera de
-Antropología Social y Cultural en la Universidad Nacional de San Martín. Con la
-carrera se fortalecieron otros intereses: viajar a lugares nuevos, hablar con
-personas para conocer cómo viven y cuáles son los conflictos de la comunidad,
-estudiar el arte popular como expresión de la moral de un pueblo, cantar,
-bailar, entre otras cosas.
-
-Hoy en día todas estas actividades se complementan con mi pasión por el
-desarrollo de software y se traduce en el desarrollo de software libre para
-organizaciones y movimientos que tienen compromisos reales con la comunidad.
 
 </div>
 
@@ -216,31 +192,51 @@ trabajando para ellos.
 *Tecnologías: SVN, GIT, Maven, Java EE, MySQL, JackRabbit, Hibernate, Spring
 MVC, jawr, Freemarker, YahooUI, AWS, ImageMagick, FFMPeg*
 
-### 55Social (desde 2013)
+### 55Social (2013 - 2015)
 
-Desde entonces trabajo en 55social, una empresa cuyo mercado principal son las
-agencias digitales de Brasil. En desarrollo utilizamos un modelo de programación
-híbrido request/response con un frontend rico pero sin responsabilidades
-funcionales. Como prácticas de diseño usamos *domain driven design* y TDD. Como
-principios organizadores adoptamos la Regla de Tres de Martin Fowler para
-refactoring, la noción de *Single Responsibility Principle* de Robert Martin,
-y la inversión de dependencias. Algunas prácticas de equipo son peer reviews,
-charlas de diseño de arquitectura y trabajo iterativo con el equipo funcional.
+55social fue una empresa de marketing digital cuyo mercado principal eran las
+agencias digitales de Brasil. La aplicación consistía en un gestor de contenido
+para crear y publicar campañas en Facebook, un gestor de múltiples cuentas para
+community management, y un sistema de métricas que se integraba con Facebook y
+Google Analytics para analizar el impacto de las campañas.
 
-La organización del trabajo está orientada al desarrollo de features y
-utilizamos *sprints* como unidad de commitment del equipo. Los tiempos de
-desarrollo de las features son variables, y para mostrar un progreso del
-desarrollo dividimos el sprint en *checkpoints* para hacer foco sobre un aspecto
-específico de la feature.
+Trabajé como desarrollador frontend y backend en el gestor de campañas y el
+motor de métricas respectivamente. En frontend el desafío fue generar un entorno
+de diseño muy personalizable para que agentes de marketing pudieran construir
+campañas en Facebook solamente configurando una serie de widgets. En cuanto al
+backend, el desafío fue generar un motor de métricas que pudiera extraer datos y
+procesarlos para mostrar diferentes tipos de gráficos que permitían analizar el
+impacto de las campañas.
 
 Durante casi toda mi experiencia en Globant y 55social también fui entrevistador
 y dicté varios talleres y capacitaciones sobre desarrollo web.
+
+Dejé 55social porque la empresa nunca llegó al break event y tuvo que cerrar.
 
 *Tecnologías: GIT, Maven, Java EE, Hibernate, Spring MVC,
 [Katari](https://github.com/katari/Katari), Elastic Search, Freemarker, Social
 APIs (Facebook, Twitter, Google Plus), jQuery UI,
 [Histone](https://github.com/MegafonWebLab/histone-javascript),
 [OOCSS](https://en.wikipedia.org/wiki/OOCSS), AWS*
+
+### Despegar.com (2015 - ahora)
+
+Despegar.com es una agencia online de viajes. Trabajé exclusivamente en backend
+desarrollando microservicios.
+
+Los primeros dos años trabajé en el sector de ventas de vuelos. Tuve la
+oportunidad de reescribir el motor de booking de vuelos en Scala. Los desafíos
+fueron aprender el lenguaje, orquestar el flujo de booking que es
+considerablemente complejo, y soportar el throughput de ventas.
+
+En la actualidad trabajo en el sector de postventa de vuelos, desarrollando el
+sistema de detección y procesamiento de cambios involuntarios o reprogramaciones
+de vuelos. Los desafíos son el manejo del flujo asincrónico (los proveedores
+notifican las reprogramaciones asincrónicamente), el manejo de fallos frente al
+usuario, y el análisis de datos de los proveedores (la consistencia es eventual
+ya que depende de las operaciones de las aerolineas).
+
+
 
 ### Software libre
 
@@ -301,19 +297,6 @@ ambientes.
 * [Repositorio de Github](https://github.com/seykron/irc-client-api)
 
 *Tecnologías: Grunt, JavaScript (NodeJS), WebSockets*
-
-#### Pirate crew
-
-[Pirate crew](https://github.com/piratas-ar/pirate-crew) es un formulario de
-registro seguro, cuyo objetivo es permitir el registro de personas protegiendo
-los datos de manera que ninguna persona con acceso físico al servidor pueda
-leerlos. Para esto los datos se encriptan en el browser con una llave pública, y
-la respectiva llave privada debe estar partida al menos en tres partes y
-distribuída en distintas personas.
-
-* [Repositorio de Github](https://github.com/piratas-ar/pirate-crew)
-
-*Tecnologías: JavaScript (NodeJS), ExpressJS, Handlebars, OpenPGP.js*
 
 ---
 

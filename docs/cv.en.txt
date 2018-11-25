@@ -1,92 +1,65 @@
-<div class="printable">
-
 ------------------------------------------------------------------------
 
 About me
 --------
 
-I am a software developer with more than ten years experience designing
-web solutions. I worked with both backend and frontend technologies such
-as PHP, Java, NodeJS, HTML/CSS/JavaScript, Flex (ActionScript 3). I also
-worked with different data storage technologies like Sybase, MySQL,
-HSQLDB, Sqlite, MongoDB, JackRabbit; key-value indexes and caches like
-Redis, Elastic Search and Memcached. I was involved in the design and
-development of several systems related to content management, social
-networks, advertising and data analysis. I appreciate team working and
-everything related to it: developing based on design principles and good
-practices, making peer reviews, building common knowledge, adopting
-organization methodologies when it is required. I think that putting
-people over processes is the key to success, that's because I usually
-push to implement lean development when possible.
+Soy desarrollador de software y tengo más de diez años de experiencia en
+la industria. Me especialicé en el desarrollo de aplicaciones web.
+Desarrollé sitios web, aplicaciones clásicas request/response,
+aplicaciones ricas con gran cantidad de componentes e interacción de los
+usuarios, servicios de backend, servicios de infraestructura como colas
+y caches, y herramientas de procesamiento y análisis de datos, entre
+otras cosas. Trabajé con arquitecturas de web services (SOAP),
+microservicios (REST), web sockets, y request/response clásicos (MVC,
+streaming), entre otras. Tengo experiencia en la integración con APIs de
+proveedores y diferentes orígenes de datos.
 
-I support the free software philosophy. I am involved in the free
-software community and I try to use and contribute to free software when
-possible. In my free time I develop social tools to encourage government
-transparency, people organization and group decision making. I study
-Social and Cultural Anthropology at National University of San Martín
-and I developed several tools as part of my researches on social
-movements and politics.
+En desarrollo de backend, trabajé con varios stacks de frameworks en
+~~PHP~~, Java, Scala, Kotlin y NodeJS. Entre los problemas comunes de
+backend que resolví, puedo mencionar autenticación, sesiones,
+transaccionalidad, acceso a datos, búsqueda de texto libre, manejo de
+operaciones asincrónicas, gestión y compresión de recursos estáticos
+(JavaScript, CSS, imágenes, videos, etc.), soporte de idiomas,
+geolocalización, clusterización de procesamiento y de datos, storage de
+contenido, seguridad de datos, entre otras cosas.
+
+En desarrollo frontend, considero más importante el diseño de
+arquitectura que el conocimiento específico de frameworks. Entre los
+problemas de arquitectura comunes que resolví puedo destacar el diseño
+de componentes reutilizables, la optimización de recursos en favor de la
+experiencia del usuario, el manejo de operaciones cross-domain, la
+personalización, el desarrollo progresivo y activación de features por
+usuario, el manejo y la persitencia de estado, soporte de idiomas, entre
+otras cosas. Algunos de los frameworks y utilidades que usé son jQuery,
+underscore.js, backbone, angularjs, knockoutjs, jqueryUI, y lessCSS.
+
+Valoro el trabajo en equipo y las prácticas para garantizar la calidad:
+desarrollar en base a principios, buenas prácticas y convenciones, hacer
+reviews de código, construir conocimiento común a través del diálogo y
+el diseño de soluciones, adoptar metodologías de organización cuando es
+necesario. Pienso que poner a las personas sobre los procesos es la
+clave del éxito de cualquier proyecto.
+
+Apoyo la filosofía del software libre. Participo en la comunidad y trato
+de usar y contribuir al software libre cuando es posible. En mi tiempo
+libre desarrollo herramientas sociales para fomentar la transparencia
+gubernamental, la organización social y la toma de decisiones
+colectivas. Estudio Antropología Social y Cultural en la Universidad de
+San Martín y desarrollé varias herramientas como parte de mis
+investigaciones sobre política y movimientos sociales.
+
+<div class="printable">
 
 ------------------------------------------------------------------------
 
 Links
 -----
 
--   Github: https://github.com/seykron/
+-   Github: https://github.com/seykron
 
--   Resume: http://spiria.me/cv/
-
--   Blog (spanish): http://spiria.me
+-   Resume: http://seykron.github.io/cv
 
 -   Twitter: https://twitter.com/matias\_mi
-
-</div>
-
-<div class="non-printable">
-
-------------------------------------------------------------------------
-
-About me
---------
-
-I was raised in Mataderos, City of Buenos Aires, Argentina. When I was
-ten I received my first computer: a Pentium 386 with Windows 3.11. Since
-then computing was one of my main activities together with electronics.
-My family gave me a new computer when I finished primary school: an
-AMD-K6-2 500MHz. That year I started the electronics-oriented middle
-school and there was a teacher that gave me a full version of Visual
-Basic 6, so I started programming as a hobby.
-
-When I was sixteen I was working in a cybercafe at night and I took
-advantage of the free time to get involved with free software and web
-development. I was working in the cybercafe for two years till I
-finished middle school and during that time I also got involved in
-infrastructure, computer security and low-level development by using
-microcontrollers. I had some minor jobs as a freelance developer,
-including creating coorporative websites and a travel management system
-for a rent-a-car shop.
-
-Another of my interests during the middle school were reading, writing
-and philosophy. Indeed, I participated in philosophy competitions and I
-used to write a blog where I met a lot of people with similar interests.
-When I finished middle school I decided to continue working in software
-development since it was my hobby and occupation. At the same time my
-curiosity about human beings encouraged me to start a university carrier
-aligned to my other passions: writing and studying cultures as an
-expression of human experience.
-
-However, I deferred the humanities career some years in order to learn
-and focus on software development as my main profession. Finally, after
-a couple of years I started the career Social and Cultural Anthropology
-at the National University of San Martín. This career strengthens my
-other interests: travelling to new places, talking to people in order to
-get to know how they live, learning about popular art as the expression
-of people's morality, singing and dancing, among others.
-
-Nowadays all these activities complement my passion for software
-development and they are translated into the software development for
-organizations and social movements engaged with the communities' real
-problems.
 
 </div>
 
