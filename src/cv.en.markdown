@@ -1,7 +1,9 @@
 ---
 author: Matías Mirabelli
+job: Software Engineer
 lang: en
 messages:
+  languages: Languages
   otherFormats: Other formats
 ...
 
@@ -314,4 +316,3 @@ Anthropology*
 
 You can contact me by email to [matt@spiria.me](mailto:matt@spiria.me). Personal
 references on request.
-

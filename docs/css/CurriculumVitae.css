@@ -69,16 +69,27 @@ body {
   text-decoration: none;
 }
 
-/** File formats links container. */
-.formats {
+/** Top bar that contains the languages and the additional formats. */
+.top-bar {
   color: #666666;
-  margin: 10px auto;
-  text-align: right;
-  width: 60%;
+  height: 25px;
+  margin: auto;
+  padding-top: 30px;
+  width: 62%;
 }
 
-.formats img {
+/** File formats links container. */
+.formats {
+  float: right;
+}
+
+.formats img, .languages img {
   vertical-align: middle;
+}
+
+/** File formats links container. */
+.languages {
+  float: left;
 }
 
 /** CV main content container. */
@@ -107,6 +118,12 @@ body {
 /** My full name. */
 h1 {
   font-family: Arial Black, sans-serif;
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+h1.job {
+  font-family: Arial, sans-serif;
   font-size: 2em;
   margin-bottom: 30px;
 }
@@ -200,6 +217,7 @@ hr {
   background: url(../image/flags.gif) no-repeat 0;
   display: inline-block;
   height: 20px;
+  vertical-align: middle;
   width: 24px;
 }
 

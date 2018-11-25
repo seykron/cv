@@ -1,7 +1,9 @@
 ---
 author: Matías Mirabelli
+job: Programador
 lang: es
 messages:
+  languages: Languages
   otherFormats: Otros formatos
 ...
 
