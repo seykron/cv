@@ -1,7 +1,7 @@
 cv
 ==
 
-My Curriculum Vitae. Available online at http://spiria.me/cv/
+My Curriculum Vitae. Available online at http://seykron.github.io/cv
 
 ## Requirements
 

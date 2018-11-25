@@ -13,5 +13,6 @@ pandoc --template $SOURCE_DIR/template.odt -t odt -o $OUTPUT_DIR/cv.en.odt $SOUR
 pandoc -o $OUTPUT_DIR/cv.en.txt $SOURCE_DIR/cv.en.markdown
 wkhtmltopdf $OUTPUT_DIR/cv.en.html $OUTPUT_DIR/cv.en.pdf
 
-# Defines index
+# Creates indexes
 cp $OUTPUT_DIR/cv.en.html $OUTPUT_DIR/index.html
+cp $OUTPUT_DIR/cv.es.html $OUTPUT_DIR/index.es.html
