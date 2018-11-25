@@ -46,6 +46,7 @@ body {
 
 /** Social networks container. */
 .social {
+  display: none;
   height: 80px;
   left: 160px;
   position: absolute;
@@ -91,16 +92,7 @@ body {
   margin: 30px auto;
   padding: 40px;
   position: relative;
-  width: 60%;
-}
-
-@media only screen and (max-width: 600px) {
-  .content {
-    width: 80%;
-  }
-  .social {
-    display: none;
-  }
+  width: 80%;
 }
 
 /** Github account. */
@@ -134,9 +126,9 @@ h2 {
   background: #e5e5ff;
   border-bottom-right-radius: 10px;
   display: inline-block;
-  font-size: 1.5em;
+  font-size: 2em;
   font-weight: bold;
-  padding: 5px 15px 0 15px;
+  padding: 5px 15px 10px 15px;
   margin-bottom: 15px;
 }
 
@@ -168,6 +160,7 @@ h5 + p {
 
 /** Paragraphs. */
 p {
+  font-size: .7em;
   line-height: 1.5em;
   margin: 25px 25px 0 25px;
   text-align: justify;
@@ -228,4 +221,20 @@ hr {
 
 .flag.uk {
   background-position: 0 -18px;
+}
+
+@media only screen and (min-width: 1024px) {
+  .content {
+    width: 60%;
+  }
+  .social {
+    display: block;
+  }
+  p {
+    font-size: 1em;
+  }
+  h2 {
+    font-size: 1.5em;
+    padding: 5px 15px 5px 15px;
+  }
 }
