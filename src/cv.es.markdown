@@ -1,6 +1,6 @@
 ---
 author: Matías Mirabelli
-job: Programador
+job: Desarrollador de software
 lang: es
 messages:
   languages: Languages
