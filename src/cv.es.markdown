@@ -4,7 +4,7 @@ author: Matías Mirabelli
 job: Desarrollador de software
 lang: es
 messages:
-  languages: Languages
+  languages: Idiomas
   otherFormats: Otros formatos
 ...
 
