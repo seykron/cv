@@ -8,8 +8,8 @@ la industria. Me especialicé en el desarrollo de aplicaciones web.
 Desarrollé sitios web, aplicaciones clásicas request/response,
 aplicaciones ricas con gran cantidad de componentes e interacción de los
 usuarios, servicios de backend, servicios de infraestructura como colas
-y caches, y herramientas de procesamiento y análisis de datos, entre
-otras cosas. Trabajé con arquitecturas de web services (SOAP),
+y caches, y herramientas inteligencia de negocio y análisis de datos,
+entre otras cosas. Trabajé con arquitecturas de web services (SOAP),
 microservicios (REST), web sockets, y request/response clásicos (MVC,
 streaming), entre otras. Tengo experiencia en la integración con APIs de
 proveedores y diferentes orígenes de datos.
@@ -107,42 +107,51 @@ facture menos de lo que estaba cobrando.
 
 ### W3americas (2006 - 2007)
 
-Mi siguiente trabajo fue en W3, una empresa de sistemas que se dedica al
+Mi siguiente trabajo fue en W3, una consultora de sistemas dedicada al
 desarrollo y mantenimiento web para terceros. Trabajé en el
 mantenimiento progresivo del sitio de Citibank Brasil. Participé en el
 rediseño completo del sitio, principalmente en el desarrollo de
 componentes que requerían integración con servicios de terceros como
 tablas de cotizaciones del mercado bursátil y cotizaciones de moneda,
-entre otras cosas. Fue mi primer contacto directo con clientes, ya que a
-menudo tenía que coordinar las tareas con las personas responsables en
-Brasil. Durante mi tiempo libre aprendía sobre diseño de sistemas y
-desarrollo de aplicaciones web en Java, lo que más tarde usaría en mi
-próximo trabajo. Dejé de trabajar en W3 porque se volvió monótono y
-prácticamente no había desarrollo, sino mantenimiento.
+entre otras cosas.
+
+Fue mi primer contacto directo con clientes, ya que a menudo tenía que
+coordinar las tareas con las personas responsables en Brasil. Durante mi
+tiempo libre aprendía sobre diseño de sistemas y desarrollo de
+aplicaciones web en Java, lo que más tarde usaría en mi próximo trabajo.
+Dejé de trabajar en W3 porque se volvió monótono y prácticamente no
+había desarrollo, sino mantenimiento.
 
 *Tecnologías: SourceSafe, Perl, HTML, CSS, JavaScript*
 
 ### CDA (2007 - 2009)
 
-Luego de dejar W3 entré como programador Java en CDA, una consultora de
-recursos humanos. Trabajé en el desarrollo de sistemas administrativos
-internos relacionados con personas (altas, bajas, vacaciones, etc), por
-lo que aprendí bastante sobre los procesos de RRHH. También tuve la
-oportunidad de desarrollar desde el comienzo un sistema de homologación
-para el Banco Francés, un cliente de la consultora. Este sistema de
-homologación era parte de los controles SOX que debía cumplir el banco
-para garantizar la trazabilidad de todos sus procesos. Una vez
-finalizado este proyecto, dejé este trabajo porque los responsables del
-área de sistemas trataban mal a la gente. Me llevé un aprendizaje
-importante sobre la gestión técnica de un proyecto de desarrollo,
-experiencia en diferentes tecnologías Java, y experiencia en la
-resolución de diferentes problemas de infraestructura relativos a acceso
-a datos, almacenamiento, control de carga, empaquetado y distribución de
+Luego de dejar W3 trabajé como programador Java en CDA, una consultora
+de recursos humanos. Participé en el desarrollo de sistemas
+administrativos internos relacionados con personas (altas, bajas,
+vacaciones, etc), por lo que aprendí bastante sobre los procesos de
+RRHH. El desafío fue integrar diferentes bases de datos legacy,
+garantizar la consistencia entre distintos orígenes de datos, y aprender
+Adobe Flex, ya que el frontend de estas aplicaciones tenía que
+desarrollarse en esta tecnología. El backend lo desarrollé utilizando
+Java 1.6, Struts MVC y web services en la capa de aplicación, e Ibatis
+en la capa de acceso a datos.
+
+Tuve la oportunidad de desarrollar desde el comienzo un sistema de
+homologación para el Banco Francés, un cliente de la consultora. Este
+sistema de homologación era parte de los controles SOX que debía cumplir
+el banco para garantizar la trazabilidad de todos sus procesos. El
+desafío fue trabajar con Java 1.4, una base de datos sin soporte de
+integridad de datos (una versión antigua de Sybase), y un modelo de
+programación requerido por el banco basado en stored procedures. El
+frontend lo desarrollé en JSP. Aprendí sobre la gestión técnica de un
+proyecto de desarrollo, y resolví problemas de infraestructura relativos
+a acceso a datos, almacenamiento, y empaquetado y distribución de
 aplicaciones Java, entre otros.
 
 *Tecnologías: SVN, Ant, Java EE (v1.4/1.6 + Web Services), Sybase DB,
 Ibatis, Struts, JSP, HTML, CSS, JavaScript, Flex (ActionScript 3,
-Cairngorm)*
+Cairngorm), Websphere*
 
 ### Globant (2009 - 2013)
 
