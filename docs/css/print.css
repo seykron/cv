@@ -6,13 +6,19 @@ body {
 }
 
 .content {
+  font-size: 1.5em;
   margin: 0;
   padding: 20px;
   width: 100%;
 }
 
+h1, h1.job {
+  font-size: 1.5em;
+}
+
 h2 {
   background: #ffffff;
+  font-size: 1.2em;
   margin-top: 15px;
 }
 
