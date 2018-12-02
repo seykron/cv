@@ -22,28 +22,26 @@ I worked with different architectures such as web services (SOAP), microservices
 I have experience with third party APIs and data sources integration.
 
 Regarding backend development, I worked with several stacks of frameworks in
-~~PHP~~, Java, Scala, Kotlin and NodeJS. Some of the problems that I have solved
-are user and API authentication, session management, transactions, data access,
-free text search, asynchronous services interoperation, static resources
-(JavaScript, CSS, images, videos, etc.) management and compression, language
-support, geolocalization, processing and data clustering, content storage,
-application and data security, among others.
+~~PHP~~, Java, Scala, Kotlin and NodeJS. Some problems I have solved are user
+and API authentication, session management, transactions, data access, free text
+search, asynchronous services interoperability, static resources management and
+compression (JavaScript, CSS, images, videos, etc.), language support,
+geolocalization, processing and data clustering, content storage, application
+and data security, among others.
 
-Regarding frontend development, I think it is more important the software
-architecture than mastering specific frameworks. Some of the architecture
-problems I have solved are the design of reusable components, resources
-optimization to achieve a good user experience, cross-domain operations
-management, customization, progressive development and user-based features,
-state management and persistence, language support, among others. I have worked
-with frameworks and utilities such as jQuery, underscore.js, backbone,
-angularjs, knockoutjs, jqueryUI, and lessCSS.
+Regarding frontend development, I think it is more important the software design
+than mastering specific frameworks. Some problems I have solved are the design
+of reusable components, optimization of resources focused on user experience,
+cross-domain operations management, customization, user-based features, state
+management and persistence, language support, among others. I have worked with
+frameworks and utilities such as jQuery, underscore.js, backbone, angularjs,
+knockoutjs, jqueryUI, and lessCSS.
 
-I endorse team work and quality assurance practices: design and develop based on
-principles, good practices and conventions, peer review of code and
-architecture, build common knowledge talking about how to build better
-solutions, adopt organization methodologies when necessary. I think than the
-lean development principle "people over processes" is the key to success in any
-project.
+I endorse team work and quality assurance practices in order to build good
+products. I usually build solutions based on software architecture principles,
+good practices and conventions. I think that good communication and peer review
+of code and architecture are some keys for building common knowledge and a good
+product.
 
 I support the free software philosophy. I am involved in the free software
 community and I try to contribute when it is possible. In my free time I build
@@ -81,27 +79,14 @@ making software.
 
 ### Freelance (2004 - 2006)
 
-Mis primeros trabajos fueron como freelance. Entre los proyectos destacables
-estuvieron el sitio corporativo del laboratorio Labyes y un sistema de gestión
-de viajes para una remisería en Visual Basic. En esta misma época también
-desarrollé varios sitios utilizando Wordpress y Drupal.
-
 My first jobs were as freelance programmer. Some projects to mention are the
 corporative website for Labyes Laboratory and a Visual Basic-based travel
 management system for a local rent-a-car shop. I developed several sites by
 using Wordpress and Drupal.
 
-*Tecnologías: PHP, HTML, CSS, JavaScript, Visual Basic, MS Access, Symfony 1.0*
+*Technologies: PHP, HTML, CSS, JavaScript, Visual Basic, MS Access, Symfony 1.0*
 
 ### Netic infoservicios (2006)
-
-Luego de finalizar la escuela secundaria, comencé a trabajar como programador
-Visual Basic en una pequeña empresa que vendía un producto de SEO
-(posicionamiento en motores de búsqueda). En esta empresa yo era el único
-programador y con muy pocas herramientas tuve que resolver problemas de
-arquitectura y distribución. El producto era una suite de aplicaciones que
-interactuaban entre ellas para generar micrositios con diferentes contenidos, y
-se distribuía como un paquete instalable.
 
 After finishing the middle-school I worked as Visual Basic programmer at a small
 company writing software for search engine optimization (SEO). I had to solve
@@ -119,13 +104,15 @@ My next job was at W3, a system consulting company focused on web development
 and sites maintenance for third party customers. I worked on the progressive
 maintenance of Citibank Brasil website. I was involved in the site's full
 redesign, mainly developing components that required integration with third-
-party services like stock exchange tables and currency values, among others.
+party services like stock exchange tables and currency values, among others. I
+worked with Perl programming language to automate deployments within a
+proprietary deployment management software. It was a challenge to build
+cross-browser features since there were very few tools (jQuery was at its early
+phase).
 
 It was my first direct experience with customers, since I often had to
-coordinate tasks with them. In my free time I did learn software architecture
-and Java web applications development. After the site's redesign I left this
-company because it became boring and there was no development at all, only
-maintenance.
+coordinate tasks with them. In my free time I did learn Java web applications
+development.
 
 *Technologies: SourceSafe, Perl, HTML, CSS, JavaScript*
 
@@ -149,102 +136,87 @@ the frontend using JSP. I did learn about technical management, and I solve
 infrastructure problems such as data access, storage and packaging and
 distribution of Java applications.
 
-*Tecnologías: SVN, Ant, Java EE (v1.4/1.6 + Web Services), Sybase DB, Ibatis,
+*Technologies: SVN, Ant, Java EE (v1.4/1.6 + Web Services), Sybase DB, Ibatis,
 Struts, JSP, HTML, CSS, JavaScript, Flex (ActionScript 3, Cairngorm), Websphere*
 
 ### Globant (2009 - 2013)
 
-Mi siguiente trabajo fue en Globant, otra consultora de recursos humanos. Entré
-como desarrollador web a un proyecto de JWT, un cliente de la consultora. El
-proyecto consistía en una reingeniería completa de un sistema de manejo de
-contenido. El sistema organizaba contenido digital como documentos, imágenes, y
-videos, y uno de los requisitos era que pudiera reutilizarse para diferentes
-clientes de la agencia, de manera que JWT pudiera revenderle el almacenamiento y
-la gestión de contenido a sus clientes. A diferencia de CDA donde trabajaba con
-un modelo de programación request/response clásico, en este proyecto conocí un
-modelo de programación orientado a servicios, donde gran parte de la
-responsabilidad de la aplicación estaba delegada en el frontend.
+My next job was at Globant, another HR consulting company. I worked as web
+developer for JWT, a media agency specializing in marketing and communication.
+The project consisted of a complete re-engineering of a content management
+system. The product was a content manager to organize digital content like
+documents, images and videos. It was designed to allow the agency customize the
+application for different customers. The agency was able to re-brand the
+application and define storage and processing quota for its customers.
 
-En Globant también tuve mi primera experiencia coordinando un equipo de
-desarrollo para JWT. Comenzamos un nuevo proyecto que buscaba resolver el
-problema de la fragmentación entre las agencias de JWT. A través de una red
-social de proyectos de marketing,  las agencias en distintas partes del mundo
-podían presentar ideas creativas para estos proyectos, interactuar entre ellas,
-compartir contenido y conocer el trabajo de las demás. Para fomentar la
-participación, las ideas eran votadas por los mismos usuarios de la comunidad de
-JWT, y la más votada era la idea que se realizaría. Mi rol antes de comenzar el
-proyecto consistió en estimar el esfuerzo total del proyecto, configurar la
-infraestructura base para que el equipo pudiera trabajar sobre el código y
-acordar con el cliente la modalidad de entrega y seguimiento del proyecto. Mi
-rol dentro del proyecto era estimar junto al equipo los distintos componentes y
-organizar las estimaciones en *sprints*, hablar con el cliente y, por supuesto,
-programar a la par del equipo y destrabar los problemas técnicos que fueran
-surgiendo.
+In this project I did learn to work with a service-oriented programming model,
+since most of the application's responsibility was managed by the frontend. The
+backend was build using Spring MVC and Jawr for services, JackRabbit for content
+management, Hibernate to manage the domain model, and FFMpeg/ImageMagick to
+process videos and images. The view rendering used the freemarker template
+engine. In the frontend, I used jQuery for DOM, YahooUI for rich components, and
+underscore.js for utilities.
 
-Este último proyecto terminó muy bien, y uno de los mayores aprendizajes fue que
-cuando se trata de aplicaciones con flows complejos el modelo de programación
-orientado a servicios puede parecer una ventaja al principio, pero a mediano
-plazo el mantenimiento de un *anemic domain* tiene un costo altísimo y se vuelve
-inviable para productos que necesitan una evolución constante y a largo plazo,
-salvo excepciones. También aprendí a gestionar servicios de AWS y a resolver
-problemas de infraestructura más complejos como el manejo de índices de búsqueda
-distribuídos.
+I had my first experience bootstraping an application and managing a development
+team in another project for JWT. The customer wanted to integrate agencies from
+all over the world in order to share their work and get to know between them. We
+built a social network of marketing projects so agencies were able to present
+creative ideas from anywhere for a project created by another agency. The goal
+was to promote the interaction between agencies in order to build common
+knowledge and reduce redundancy and costs of content. My role in the project
+kick off was to estimate the effort, set up the infrastructure, and agree with
+the customer how to manage the project's follow-up and delivery.
 
-Luego de más de dos años de trabajar con JWT, comencé a trabajar con un nuevo
-cliente de la consultora: 55social. El desafío era construir una plataforma de
-social media management para facilitar la gestión de contenido y campañas de
-marketing en redes sociales. Gracias a un pequeño y excelente equipo de
-desarrollo la primera versión del producto estuvo online en cuatro meses. Luego
-de dos años de desarrollo, la empresa se desvinculó de Globant y yo seguí
-trabajando para ellos.
+After two years working for JWT, I started working for 55social, another
+Globant's customer. The challenge was to create a social media platform to allow
+companies manage content and marketing campaigns in social networks. Thanks to a
+small high-performance team the first beta was ready in four months. After two
+years of development, I left Globant and I continued working for 55social.
 
-*Tecnologías: SVN, GIT, Maven, Java EE, MySQL, JackRabbit, Hibernate, Spring
+*Technologies: SVN, GIT, Maven, Java EE, MySQL, JackRabbit, Hibernate, Spring
 MVC, jawr, Freemarker, YahooUI, AWS, ImageMagick, FFMPeg*
 
-### 55Social (since 2013)
+### 55Social (2013-2015)
 
-55social fue una empresa de marketing digital cuyo mercado principal eran las
-agencias digitales de Brasil. La aplicación consistía en un gestor de contenido
-para crear y publicar campañas en Facebook, un gestor de múltiples cuentas para
-community management, y un sistema de métricas que se integraba con Facebook y
-Google Analytics para analizar el impacto de las campañas.
+55social was a digital marketing company with operations in Brasil. The product
+consisted of a content manager to create and publish marketing campaigns on
+Facebook, a community management module to manage multiple social networks
+accounts, and a metrics engine integrated with Facebook and Google Analytics to
+analyze the outcome of marketing campaigns.
 
-Trabajé como desarrollador frontend y backend en el gestor de campañas y el
-motor de métricas respectivamente. En frontend el desafío fue generar un entorno
-de diseño muy personalizable para que agentes de marketing pudieran construir
-campañas en Facebook solamente configurando una serie de widgets. En cuanto al
-backend, el desafío fue generar un motor de métricas que pudiera extraer datos y
-procesarlos para mostrar diferentes tipos de gráficos que permitían analizar el
-impacto de las campañas.
+I worked as developer frontend y backend in the content manager and the metrics
+engine, respectively. In the frontend the challenge was to generate a
+customizable design environment to allow marketing agents build Facebook
+campaign only by configuring a set of widgets. Regarding the backend, the
+challenge was to generate a metrics engine able to extract and process data to
+display different kind of graphs in order to allow customers analyze the
+outcome of marketing campaigns.
 
-Durante casi toda mi experiencia en Globant y 55social también fui entrevistador
-y dicté varios talleres y capacitaciones sobre desarrollo web.
+While working on 55social and Globant I was an interviewer and I prepared
+technical workshops and trainings about web development.
 
-Dejé 55social porque la empresa nunca llegó al break event y tuvo que cerrar.
-
-*Tecnologías: GIT, Maven, Java EE, Hibernate, Spring MVC,
+*Technologies: GIT, Maven, Java EE, Hibernate, Spring MVC,
 [Katari](https://github.com/katari/Katari), Elastic Search, Freemarker, Social
 APIs (Facebook, Twitter, Google Plus), jQuery UI,
 [Histone](https://github.com/MegafonWebLab/histone-javascript),
 [OOCSS](https://en.wikipedia.org/wiki/OOCSS), AWS*
 
-### Despegar.com (2015 - ahora)
+### Despegar.com (since 2015)
 
-Despegar.com es una agencia online de viajes. Trabajé exclusivamente en backend
-desarrollando microservicios.
+Despegar.com is an online travel agency. I worked in backend developing
+microservices.
 
-Los primeros dos años trabajé en el sector de ventas de vuelos. Tuve la
-oportunidad de reescribir el motor de booking de vuelos en Scala. Los desafíos
-fueron aprender el lenguaje, orquestar el flujo de booking que es
-considerablemente complejo, y soportar el throughput de ventas.
+The first two years I worked with flight selling. I had the change to rewrite
+the flight booking engine in Scala. Some challenges were to learn the Scala
+programming language, manage the interoperability within the complex booking
+flow, and optimize the application to support the selling throughput.
 
-En la actualidad trabajo en el sector de postventa de vuelos, desarrollando el
-sistema de detección y procesamiento de cambios involuntarios o reprogramaciones
-de vuelos. Los desafíos son el manejo del flujo asincrónico (los proveedores
-notifican las reprogramaciones asincrónicamente), el manejo de fallos frente al
-usuario, y el análisis de datos de los proveedores (la consistencia es eventual
-ya que depende de las operaciones de las aerolineas).
-
+I currently work in flights post-sales. I'm involved in the development of
+several applications to detect and process involuntary flight changes. Some
+challenges are to handle the asynchronous flow of involuntary changes (flight
+providers notifies involuntary changes asynchronously), to manage and recover
+errors, and to analyze the providers data (since data consistency from providers
+is eventual and it depends on airlines).
 
 ### Software libre
 
@@ -305,19 +277,6 @@ transports, so it might be adapted to different devices and environments.
 * [Github Repository](https://github.com/seykron/irc-client-api)
 
 *Technologies: Grunt, JavaScript (NodeJS), WebSockets*
-
-#### Pirate crew
-
-[Pirate crew](https://github.com/piratas-ar/pirate-crew) is a secure
-registration form whose main goal is to allow people to register while it
-protects the data so no one with physical access to the server can read it. It
-encrypts the person's information in the browser with a public key, and the
-underlying private key is supposed to be splitted into many pieces and
-distributed by different people.
-
-* [Github Repository](https://github.com/piratas-ar/pirate-crew)
-
-*Technologies: JavaScript (NodeJS), ExpressJS, Handlebars, OpenPGP.js*
 
 ---
 
