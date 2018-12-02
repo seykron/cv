@@ -218,6 +218,9 @@ providers notifies involuntary changes asynchronously), to manage and recover
 errors, and to analyze the providers data (since data consistency from providers
 is eventual and it depends on airlines).
 
+*Technologies: GIT, Maven, Spring MVC, Java Spark Web, Cassandra, RabbitMQ, SBT,
+Java, Scala, Kotlin.*
+
 ### Software libre
 
 I developed, maintained and collaborated in different free software projects

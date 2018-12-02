@@ -230,6 +230,8 @@ notifican las reprogramaciones asincrónicamente), el manejo de fallos frente al
 usuario, y el análisis de datos de los proveedores (la consistencia es eventual
 ya que depende de las operaciones de las aerolineas).
 
+*Tecnologías: GIT, Maven, Spring MVC, Java Spark Web, Cassandra, RabbitMQ, SBT,
+Java, Scala, Kotlin.*
 
 ### Software libre
 
