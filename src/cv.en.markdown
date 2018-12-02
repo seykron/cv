@@ -44,7 +44,7 @@ of code and architecture are some keys for building common knowledge and a good
 product.
 
 I support the free software philosophy. I am involved in the free software
-community and I try to contribute when it is possible. In my free time I build
+community and I try to contribute whenever possible. In my free time I build
 social-oriented software like open government, social organization, and decision
 making software.
 
@@ -88,7 +88,7 @@ using Wordpress and Drupal.
 
 ### Netic infoservicios (2006)
 
-After finishing the middle-school I worked as Visual Basic programmer at a small
+After finishing middle-school I worked as a Visual Basic programmer for a small
 company writing software for search engine optimization (SEO). I had to solve
 several architecture and distribution problems. The product was a static site
 generator. It consisted of several applications, each one in charge of
@@ -100,7 +100,7 @@ self-contained installation package.
 
 ### W3americas (2006 - 2007)
 
-My next job was at W3, a system consulting company focused on web development
+My next job was for W3, a system consulting company focused on web development
 and sites maintenance for third party customers. I worked on the progressive
 maintenance of Citibank Brasil website. I was involved in the site's full
 redesign, mainly developing components that required integration with third-
@@ -111,28 +111,28 @@ cross-browser features since there were very few tools (jQuery was at its early
 phase).
 
 It was my first direct experience with customers, since I often had to
-coordinate tasks with them. In my free time I did learn Java web applications
+coordinate tasks with them. In my free time I learned Java web applications
 development.
 
 *Technologies: SourceSafe, Perl, HTML, CSS, JavaScript*
 
 ### CDA (2007 - 2009)
 
-After leaving W3 I worked as Java programmer in CDA, an HR consulting company. I
-was involved in the development of internal HR systems such as admissions,
-retirements, vacations, etc. I did learn a lot about HR processes. Some
-challenges were to integrate several databases, to ensure data consistency among
-different data sources, and to learn Adoble Flex since it was a requirement to
-develop the frontend with this technology. I developed the backend using Java
-1.6, Struts MVC and web services in the application layer, and Ibatis in the
-data access layer.
+After leaving W3 I worked as a Java programmer for CDA, an HR consulting
+company. I was involved in the development of internal HR systems such as
+admissions, retirements, vacations, etc. I learned a lot about HR processes.
+Some challenges were the integration of several databases, the validation of
+consistency among different data sources, and learning Adoble Flex since it was
+a requirement to develop the frontend by using this technology. I developed the
+backend with Java 1.6, Struts MVC and web services in the application layer,
+and Ibatis in the data access layer.
 
 I also had the chance to bootstrap a new project for a local bank. It was an
 administrative audit software that implemented SOX controls in order to ensure
-internal processes accountability. Some challenges were to work with Java 1.4, a
+internal processes accountability. Some challenges were working with Java 1.4, a
 database without data integrity check support (a legacy version of Sybase), and
 a programming model required by the bank based on stored procedures. I developed
-the frontend using JSP. I did learn about technical management, and I solve
+the frontend using JSP. I learned about technical management, and I solved
 infrastructure problems such as data access, storage and packaging and
 distribution of Java applications.
 
@@ -141,15 +141,15 @@ Struts, JSP, HTML, CSS, JavaScript, Flex (ActionScript 3, Cairngorm), Websphere*
 
 ### Globant (2009 - 2013)
 
-My next job was at Globant, another HR consulting company. I worked as web
+My next job was for Globant, another HR consulting company. I worked as web
 developer for JWT, a media agency specializing in marketing and communication.
 The project consisted of a complete re-engineering of a content management
 system. The product was a content manager to organize digital content like
-documents, images and videos. It was designed to allow the agency customize the
-application for different customers. The agency was able to re-brand the
+documents, images and videos. It was designed to allow the agency to customize
+the application for different customers. The agency was able to re-brand the
 application and define storage and processing quota for its customers.
 
-In this project I did learn to work with a service-oriented programming model,
+In this project I learned to work with a service-oriented programming model,
 since most of the application's responsibility was managed by the frontend. The
 backend was build using Spring MVC and Jawr for services, JackRabbit for content
 management, Hibernate to manage the domain model, and FFMpeg/ImageMagick to
@@ -159,19 +159,20 @@ underscore.js for utilities.
 
 I had my first experience bootstraping an application and managing a development
 team in another project for JWT. The customer wanted to integrate agencies from
-all over the world in order to share their work and get to know between them. We
-built a social network of marketing projects so agencies were able to present
-creative ideas from anywhere for a project created by another agency. The goal
-was to promote the interaction between agencies in order to build common
-knowledge and reduce redundancy and costs of content. My role in the project
-kick off was to estimate the effort, set up the infrastructure, and agree with
-the customer how to manage the project's follow-up and delivery.
+all over the world in order to share their work and get to know them. We built a
+social network of marketing projects so agencies were able to present creative
+ideas from anywhere for a project created by another agency. The goal was to
+promote the interaction between agencies in order to build common knowledge and
+reduce redundancy and costs of content. My role in the project kick off was to
+estimate the effort, set up the infrastructure, and agree with the customer how
+to manage the project's follow-up and delivery.
 
 After two years working for JWT, I started working for 55social, another
-Globant's customer. The challenge was to create a social media platform to allow
-companies manage content and marketing campaigns in social networks. Thanks to a
-small high-performance team the first beta was ready in four months. After two
-years of development, I left Globant and I continued working for 55social.
+Globant's customer. The challenge was the creation of a social media platform to
+allow companies manage content and marketing campaigns in social networks.
+Thanks to a small high-performance team the first beta was ready in four months.
+After two years of development, I left Globant and I continued working for
+55social.
 
 *Technologies: SVN, GIT, Maven, Java EE, MySQL, JackRabbit, Hibernate, Spring
 MVC, jawr, Freemarker, YahooUI, AWS, ImageMagick, FFMPeg*
@@ -184,12 +185,12 @@ Facebook, a community management module to manage multiple social networks
 accounts, and a metrics engine integrated with Facebook and Google Analytics to
 analyze the outcome of marketing campaigns.
 
-I worked as developer frontend y backend in the content manager and the metrics
-engine, respectively. In the frontend the challenge was to generate a
-customizable design environment to allow marketing agents build Facebook
-campaign only by configuring a set of widgets. Regarding the backend, the
-challenge was to generate a metrics engine able to extract and process data to
-display different kind of graphs in order to allow customers analyze the
+I worked as developer frontend and backend in the content manager and the
+metrics engine, respectively. In the frontend the challenge was the generation
+of a customizable design environment to allow marketing agents building a
+Facebook campaign only by configuring a set of widgets. Regarding the backend,
+the challenge was the creation of a metrics engine able to extract and process
+data to display different kind of graphs in order to allow customers analyze the
 outcome of marketing campaigns.
 
 While working on 55social and Globant I was an interviewer and I prepared
@@ -203,42 +204,42 @@ APIs (Facebook, Twitter, Google Plus), jQuery UI,
 
 ### Despegar.com (since 2015)
 
-Despegar.com is an online travel agency. I worked in backend developing
-microservices.
+Despegar.com is an online travel agency. I work in backend programming
+developing microservices.
 
-The first two years I worked with flight selling. I had the change to rewrite
-the flight booking engine in Scala. Some challenges were to learn the Scala
-programming language, manage the interoperability within the complex booking
-flow, and optimize the application to support the selling throughput.
+The first two years I worked with flight selling. I had to rewrite the flight
+booking engine in Scala. Some challenges were learning the Scala programming
+language, the interoperability within the complex booking flow, and the
+optimization of the application in order to support the selling throughput.
 
 I currently work in flights post-sales. I'm involved in the development of
 several applications to detect and process involuntary flight changes. Some
-challenges are to handle the asynchronous flow of involuntary changes (flight
-providers notifies involuntary changes asynchronously), to manage and recover
-errors, and to analyze the providers data (since data consistency from providers
-is eventual and it depends on airlines).
+challenges are processing asynchronous flow of involuntary changes (flight
+providers notifies involuntary changes asynchronously), the errors management
+and recovery, and the analysis of providers data (since data consistency from
+providers is eventual and it depends on airlines).
 
 *Technologies: GIT, Maven, Spring MVC, Java Spark Web, Cassandra, RabbitMQ, SBT,
 Java, Scala, Kotlin.*
 
 ### Software libre
 
-I developed, maintained and collaborated in different free software projects
-during many years. The logic behind a free software organization is quite
+I have developed, maintained and collaborated in different free software
+projects for many years. The logic behind a free software organization is quite
 different from the business logic, so the experience managing both kind of
 projects helped me to develop a critical view of leadership, mainly oriented to
-problem resolution through collaboration. Many of the projects I started no
-longer exist, but there are a couple of them that still are published on Github
-and I would like to comment on the ones I consider more relevant.
+problem solving through collaboration. Many of the projects I started no longer
+exist, but there are a couple of them that still are published on Github and I
+would like to comment on the ones I consider more relevant.
 
 #### I stop it (Yo los paro)
 
 [Yo los paro](http://yolosparo.org) is a campaign to warn people about
 irregularities in the new argentinian Fuel Law that was finally approved in
-2014. The campaign goal was to promote people's direct participation, so without
-any kind of registration they could send messages to the national legislatives.
-The long-term goal is to transform this single campaign into a [direct
-participation platform](https://github.com/piratas-
+2014. The campaign goal was to promote people's direct participation, so they
+could send messages to the national legislatives without any kind of
+registration. The long-term goal is to transform this single campaign into a
+[direct participation platform](https://github.com/piratas-
 ar/yolosparo/tree/feature/support- multiple-campaigns).
 
 * [Github Repository](https://github.com/piratas-ar/yolosparo)
