@@ -79,6 +79,7 @@ body {
 
 .formats img, .languages img {
   vertical-align: middle;
+  width: 42px;
 }
 
 /** File formats links container. */
@@ -207,22 +208,6 @@ hr {
   margin: 30px 0 0 0;
 }
 
-.flag {
-  background: url(../image/flags.gif) no-repeat 0;
-  display: inline-block;
-  height: 20px;
-  vertical-align: middle;
-  width: 24px;
-}
-
-.flag.ar {
-  background-position: 0 1px;
-}
-
-.flag.uk {
-  background-position: 0 -18px;
-}
-
 @media only screen and (min-width: 1200px) {
   h2 {
     font-size: 1.4em;
@@ -260,5 +245,10 @@ hr {
   }
   .social {
     display: block;
+  }
+
+  .formats img, .languages img {
+    vertical-align: middle;
+    width: 24px;
   }
 }
