@@ -12,7 +12,7 @@ messages:
 
 ## About me
 
-I am a software developer with more than ten years of experience in the software
+I am a software engineer with more than ten years of experience in the software
 industry. I am a senior developer specialized in web applications. I developed
 web sites, classic request/response applications, rich applications with heavy
 UX and components, backend services, infrastructure services like queues and
@@ -222,7 +222,7 @@ providers is eventual and it depends on airlines).
 *Technologies: GIT, Maven, Spring MVC, Java Spark Web, Cassandra, RabbitMQ, SBT,
 Java, Scala, Kotlin.*
 
-### Software libre
+### Free software
 
 I have developed, maintained and collaborated in different free software
 projects for many years. The logic behind a free software organization is quite
