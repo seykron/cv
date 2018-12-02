@@ -308,5 +308,6 @@ Cultural*
 
 ## Contacto
 
-Pueden contactarme por email a [matt@spiria.me](mailto:matt@spiria.me).
-Referencias personales a pedido.
+Pueden contactarme por email a
+[matias.mi+resume@riseup.net](mailto:matias.mi+resume@riseup.net). Referencias
+personales a pedido.

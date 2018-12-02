@@ -297,5 +297,6 @@ Anthropology*
 
 ## Contact
 
-You can contact me by email to [matt@spiria.me](mailto:matt@spiria.me). Personal
+You can contact me by email to
+[matias.mi+resume@riseup.net](mailto:matias.mi+resume@riseup.net). Personal
 references on request.
