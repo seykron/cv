@@ -63,7 +63,9 @@ sociales.
 
 ## Links
 
-* Github: https://github.com/seykron
+* Github: https://github.com/seykron y https://github.com/f-nyx
+
+* Gitlab: https://git.rlab.be/seykron
 
 * Resume: http://seykron.github.io/cv
 
