@@ -38,15 +38,17 @@ optimización de recursos en favor de la experiencia del usuario, el manejo de
 operaciones cross-domain, la personalización, el desarrollo progresivo y
 activación de features por usuario, el manejo y la persitencia de estado,
 soporte de idiomas, entre otras cosas. Algunos de los frameworks y utilidades
-que usé son Vue 2/3, charts.js, jQuery, underscore.js, backbone, angularjs,
-jqueryUI, y lessCSS.
+que usé son Vue 2/3, charts.js, jQuery, underscore.js, backbone, jqueryUI, y
+lessCSS.
 
-Valoro el trabajo en equipo y las buenas prácticas para garantizar la calidad:
-desarrollar en base a principios, buenas prácticas y convenciones, hacer reviews
-de código, construir conocimiento común a través del diálogo y el diseño de
-soluciones, adoptar metodologías de organización cuando es necesario. Pienso que
-poner a las personas sobre los procesos es la clave del éxito de cualquier
-proyecto.
+Pienso que el trabajo en equipo y un proceso de desarrollo enfocado en la calidad
+son la clave para un producto exitoso. Entre las buenas prácticas para garantizar
+la calidad del delivery mencionaría resolver problemas utilizando los principios
+de desarrollo de software que están muy probados en la industria, fomentar buenas
+prácticas y convenciones, hacer reviews de código, construir conocimiento común a
+través del diálogo y el diseño de soluciones y adoptar metodologías de organización
+cuando es necesario. Pienso que poner a las personas sobre los procesos es la clave
+del éxito de cualquier proyecto.
 
 Apoyo la filosofía del software libre. Participo en la comunidad y trato de usar
 y contribuir al software libre cuando es posible. En mi tiempo libre desarrollo
@@ -152,8 +154,8 @@ En el equipo de desarrollo eramos seis personas, y trabajábamos directamente co
 equipo de producto.
 
 
-*Tecnologías: GIT, Maven, Spring MVC, Java Spark Web, Play Framework, Scalatra, Finagle, Cassandra, RabbitMQ, SBT,
-Java, Scala, Kotlin.*
+*Tecnologías: GIT, Maven, Spring MVC, Java Spark Web, Play Framework, Scalatra, Finagle,
+Cassandra, RabbitMQ, SBT, Java, Scala, Kotlin.*
 
 ### 55Social (2013 - 2015)
 
