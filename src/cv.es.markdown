@@ -134,14 +134,23 @@ oportunidad de reescribir el motor de booking de vuelos en Scala. Los desafíos
 fueron aprender el lenguaje, orquestar el flujo de booking que es
 considerablemente complejo, y soportar el throughput de ventas.
 
-En la actualidad trabajo en el sector de postventa de vuelos desarrollando el
-sistema de detección y procesamiento de cambios involuntarios o reprogramaciones
-de vuelos. Los desafíos son el manejo del flujo asincrónico (los proveedores
-notifican las reprogramaciones asincrónicamente), el manejo de fallos frente al
-usuario, y el análisis de datos de los proveedores (la consistencia es eventual
-ya que depende de las operaciones de las aerolineas).
+Trabajé en el sector de postventa de vuelos desarrollando el sistema de detección y
+procesamiento de cambios involuntarios o reprogramaciones de vuelos. Mi trabajo
+principal fue la integración con proveedores de vuelos como Sabre, Amadeus, Worldspan,
+American Airlines, etc. Algunos desafíos técnicos fueron el manejo del flujo asincrónico
+(los proveedores notifican las reprogramaciones asincrónicamente); el manejo de fallos
+frente al usuario; el análisis de datos de los proveedores (la consistencia es eventual
+ya que depende de las operaciones de las aerolineas); generar las abstracciones para
+soportar multiples proveedores de vuelos; manejar el volumen de tráfico en servicios que
+requieren alta disponibilidad; diseñar herramientas de soporte para testing ya que varios
+proveedores no contaban con ambientes de pruebas, y reescribir varias aplicaciones para
+migrarlas a una arquitectura de microservicios.
 
-*Tecnologías: GIT, Maven, Spring MVC, Java Spark Web, Cassandra, RabbitMQ, SBT,
+En el equipo de desarrollo eramos seis personas, y trabajábamos directamente con el
+equipo de producto.
+
+
+*Tecnologías: GIT, Maven, Spring MVC, Java Spark Web, Play Framework, Scalatra, Finagle, Cassandra, RabbitMQ, SBT,
 Java, Scala, Kotlin.*
 
 ### 55Social (2013 - 2015)
