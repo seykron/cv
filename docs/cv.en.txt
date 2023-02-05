@@ -43,7 +43,7 @@ software community and I try to contribute whenever possible. In my free
 time I build social-oriented software like open government, social
 organization, and decision making software.
 
-<div class="printable">
+::: {.printable}
 
 ------------------------------------------------------------------------
 
@@ -55,8 +55,7 @@ Links
 -   Resume: http://seykron.github.io/cv
 
 -   Twitter: https://twitter.com/matias\_mi
-
-</div>
+:::
 
 ------------------------------------------------------------------------
 
