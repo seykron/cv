@@ -306,12 +306,12 @@ would like to comment on the ones I consider more relevant.
 
 #### Tehanu
 
-[Tehanu](https://git.rlab.be/seykron/tehanu), a library to build bots over
+[Tehanu](https://gitlab.com/rlyehlab/tehanu), a library to build bots over
 different messaging services.
 
 #### Domino
 
-[Domino](https://git.rlab.be/seykron/domino), a crowd-managed financial system we
+[Domino](https://gitlab.com/rlyehlab/domino), a crowd-managed financial system we
 use in several Free Software organizations.
 
 
