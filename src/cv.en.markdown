@@ -22,7 +22,7 @@ I worked with different architectures such as web services (SOAP), microservices
 I have experience with third party APIs and data sources integration.
 
 Regarding backend development, I worked with several stacks and frameworks in
-~~PHP~~, Java, Scala, Kotlin and NodeJS. Some problems I have solved are user
+PHP, Java, Scala, Kotlin and NodeJS. Some problems I have solved are user
 and API authentication (SAML, OIDC), session management, transactions, data
 access, free text search, asynchronous services interoperability, static
 resources management and compression (JavaScript, CSS, images, videos, etc.),
@@ -80,13 +80,35 @@ making software.
 
 ## Experience in Software Development
 
-### SCV - WireWheel (2019-ahora)
+### Government of the Province of Buenos Aires (2020 - 2023)
 
-Since 2019 I work for WireWheel, a USA east-cost based client from the SCV
-consultant company. WireWheel sells several privacy-related products to
-other companies. For instance, products to manage users data access requests,
+Since 2020 I worked as a part time consultant for the Ministry of Justice. I was
+hired to build a biometrics system to identify subjects in the Buenos Aires Penitentiary
+Service. I built an [AFIS system](https://en.wikipedia.org/wiki/Automated_fingerprint_identification)
+to enroll and identify people in penitenciaries. The system consisted on a web application that allows
+users to enroll and to search for subjects; a public API to interoperate with another systems; and a
+standalone, multi-platform service to manage fingerprint readers devices. There are several challenges
+building an AFIS, but I can mention the multi-platform support; the use of standard protocols and formats
+to interoperate between different biometrics systems; the information architecture to securely store
+biometric information; the abstraction layer to support multiple hardware using a common interface;
+asynchronous and distributed fingerprint search.
+
+The web application backend was built using Kotlin, Spring Boot, Postgres, open source biometrics
+libraries like [SourceAFIS](https://sourceafis.machinezoo.com/), RabbitMQ, MinIO, among others.
+The frontend was built using Vue3 and TypeScript, Jest for testing, and Storybook to document the
+components library. I also worked with propietary hardware drivers, and I did the research to define which
+devices were feasible for this project.
+
+*Technologies: Kotlin, TypeScript, Vue3; libraries like Spring Boot, Exposed; data sources like Postgres
+and Redis; other services like RabbitMQ and systemd (linux).*
+
+
+### SCV - WireWheel (2019 - 2023)
+
+WireWheel is a USA east-cost based company that sells privacy-related products for
+other companies. For instance, software to manage users data access requests,
 and cookie-based consent management. The first two years I worked as developer
-of one of their main products, and since Feb 2022 I'm leading the development
+in one of their main products, and since Feb 2022 I'm leading the development
 of a new product for consent management.
 
 As tech lead I have two kind of responsibilities: operational and technical.
@@ -95,7 +117,6 @@ development team; ensuring some predictability in the team velocity; ensuring th
 delivery quality; working with the product team to plan ahead for short and mid
 term; organizing the release process; taking interviews for new hirings; and
 monitoring production.
-
 
 As part of technical responsibilities I can mention designing solutions with the
 team; doing all configuration management related tasks like dockerizing and

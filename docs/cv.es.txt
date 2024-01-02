@@ -84,15 +84,46 @@ Idiomas
 Experiencia en desarrollo de software
 -------------------------------------
 
-### SCV - WireWheel (2019-ahora)
+### Gobierno de la Provincia de Buenos Aires (2020 - 2023)
 
-Desde el 2019 hasta ahora trabajo para WireWheel, un cliente de Estados
-Unidos de la consultora SCV. WireWheel es una empresa que vende
-productos de privacidad para otras empresas, como la gestión de pedidos
-de datos, o la gestión de consentimiento de cookies. Los primeros dos
-años trabajé como desarrollador en el equipo de uno de los productos, y
-en febrero del 2022 me pidieron que lidere el desarrollo de un nuevo
-producto para la gestión de consentimiento.
+Desde el 2020 trabajé como consultor para el Ministerio de Justicia de
+la Provincia de Buenos Aires. Me contrataron para construir un sistema
+de identificación biométrica para el Servicio Penitenciario. Construí un
+sistema
+[AFIS](https://en.wikipedia.org/wiki/Automated_fingerprint_identification)
+para enrolar e identificar personas en las unidades penitenciarias. El
+sistema consiste en una aplicación web que permite el enrolamiento y la
+búsqueda de personas; una API pública para interoperar con otros
+sistemas; y un servicio standalone y multi-plataforma para manejar
+lectores de huellas digitales. Entre los desafíos para construir un
+sistema AFIS puedo mencionar el soporte multi-plataforma; el uso de
+protocolos y formatos estándares para interoperar con diferentes
+sistemas biométricos; la arquitectura de la información para guardar la
+información biométrica de forma segura; la capa de abstracción para
+soportar diferentes dispositivos de hardware usando una interfaz común;
+la búsqueda asincrónica y distribuída de personas por huella digital.
+
+El backend de la aplicación web está construido en Kotlin, utilizando
+Spring Boot, Postgres, librerías libres de procesamiento de datos
+biométricos como [SourceAFIS](https://sourceafis.machinezoo.com/),
+RabbitMQ, MinIO, entre otras. El frontend está construido utilizando
+Vue4 y TypeScript, Jest para unit testing, y Storybook para documentar
+la librería de componentes. También trabajé con drivers propietarios, y
+realicé la investigación para definir qué lectores de huellas digitales
+eran viables para este proyecto.
+
+*Tecnologías: Kotlin, TypeScript, Vue3; librerías como Spring Boot,
+Exposed; data sources como Postgres y Redis; otros servicios como
+RabbitMQ y systemd (linux).*
+
+### SCV - WireWheel (2019-2023)
+
+WireWheel es una empresa que vende productos de privacidad para otras
+empresas, como la gestión de pedidos de datos, o la gestión de
+consentimiento de cookies. Los primeros dos años trabajé como
+desarrollador en el equipo de uno de los productos, y en febrero del
+2022 me pidieron que lidere el desarrollo de un nuevo producto para la
+gestión de consentimiento.
 
 Como lider técnico tengo dos tipos de responsabilidades: operativas y
 técnicas. Entre las responsabilidades operativas están darle soporte
