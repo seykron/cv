@@ -12,23 +12,24 @@ messages:
 
 ## Sobre mi
 
-Soy desarrollador de software y tengo más de quince años de experiencia en la
-industria. Me especialicé en el desarrollo de aplicaciones web. Desarrollé
-sitios web, aplicaciones clásicas request/response, aplicaciones ricas con gran
+Soy desarrollador de software y tengo casi veinte años de experiencia en la
+industria. Me especialicé en el desarrollo de aplicaciones web y sistemas distribuidos.
+Desarrollé sitios web, aplicaciones clásicas request/response, aplicaciones ricas con gran
 cantidad de componentes e interacción de los usuarios, servicios de backend,
 servicios de infraestructura como colas y caches, y herramientas inteligencia de
-negocio y análisis de datos, entre otras cosas. Trabajé con arquitecturas de web
-services (SOAP), microservicios (REST), web sockets, y request/response clásicos
-(MVC, streaming), entre otras. Tengo experiencia en la integración con APIs de
+negocio y análisis de datos, sistemas biométricos, entre otras cosas. Trabajé con
+arquitecturas de web services (SOAP), microservicios (REST), web sockets, y request/response
+clásicos (MVC, streaming), entre otras. Tengo experiencia en la integración con APIs de
 proveedores y diferentes orígenes de datos.
 
-En desarrollo de backend, trabajé con varios stacks de frameworks en ~~PHP~~,
-Java, Scala, Kotlin y NodeJS. Entre los problemas comunes de backend que
-resolví, puedo mencionar autenticación (SAML, OIDC), sesiones, transaccionalidad,
-acceso a datos, búsqueda de texto libre, manejo de operaciones asincrónicas, gestión
-y compresión de recursos estáticos (JavaScript, CSS, imágenes, videos, etc.),
-soporte de idiomas, geolocalización, clusterización de procesamiento y de datos,
+En desarrollo de backend, trabajé con varios stacks de frameworks en PHP,
+Java, Scala, Kotlin y NodeJS. Entre los problemas de backend que resolví,
+puedo mencionar autenticación (SAML, OIDC), manejo de sesiones, transaccionalidad,
+acceso a datos, búsqueda de texto libre, interoperabilidad entre servicios distribuidos,
+gestión y compresión de recursos estáticos (JavaScript, CSS, imágenes, videos, etc.),
+soporte de idiomas, geolocalización, clusterización y procesamiento de datos,
 storage de contenido, seguridad de datos, integración con servicios de terceros,
+integración de hardware biométrico, estrategias de escalabilidad y resiliencia, 
 entre otras cosas.
 
 En desarrollo frontend, considero más importante el diseño de arquitectura que
@@ -380,6 +381,19 @@ Cultural*
 * E.N.E.T N°17 D.E. 20 (2001 - 2006) - *Técnico Electrónico*
 
 * Alfonsina Storni (Escuela Primaria)
+
+---
+
+## Libros
+
+* Martin Fowler, _Patterns of Enterprise Application Architecture_, 2002.
+* "The Gang of Four", _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison-Wesley, 1994.
+* Robert Martin, _Clean Architecture: A Craftsman's Guide to Software Structure and Design_, 2017.
+* Robert Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_, Pearson, 2008.
+* Steve McConnell, _Code Complete: A Practical Handbook of Software Construction_, Microsoft Press, 2004.
+* Mary and Tom Poppendieck, _Implementing Lean Software Development: From Concept to Cash_, Addison-Wesley, 2006.
+* Mary and Tom Poppendieck, _Leading Lean Software Development: Results Are Not the Point_, Addison-Wesley, 2009.
+* M. van Steen and A.S. Tanenbaum, _Distributed Systems_, distributed-systems.net, 2017.
 
 ---
 

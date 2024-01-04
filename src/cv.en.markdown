@@ -12,23 +12,23 @@ messages:
 
 ## About me
 
-I am a software engineer with more than fifteen years of experience in the software
-industry. I am a senior developer specialized in web applications. I developed
-web sites, classic request/response applications, rich applications with heavy
-UX and components, backend services, infrastructure services like queues and
-caches, business intelligence and data processing applications, among others.
-I worked with different architectures such as web services (SOAP), microservices
-(REST), web sockets, classic request/response (MVC, streaming), among others.
-I have experience with third party APIs and data sources integration.
+I am a software engineer with almost twenty years of experience in the software
+industry. I am a senior developer specialized in web applications and distributed
+systems. I developed web sites, classic request/response applications, rich applications
+with heavy UX and components, backend services, infrastructure services like queues and
+caches, business intelligence and data processing applications, biometrics systems,
+among others. I worked with different architectures such as web services (SOAP),
+microservices (REST), web sockets, classic request/response (MVC, streaming),
+among others. I have experience with third party APIs and data sources integration.
 
 Regarding backend development, I worked with several stacks and frameworks in
 PHP, Java, Scala, Kotlin and NodeJS. Some problems I have solved are user
 and API authentication (SAML, OIDC), session management, transactions, data
-access, free text search, asynchronous services interoperability, static
+access, free text search, distributed services interoperability, static
 resources management and compression (JavaScript, CSS, images, videos, etc.),
-language support, geolocalization, processing and data clustering, content
-storage, application and data security, third party services integration, among
-others.
+multi-language support, geolocalization, data clustering and processing, content
+storage, application and information security, third party services integration,
+biometric hardware integration, resiliency and scalability, among others.
 
 Regarding frontend development, I think software design and architecture is more
 important than mastering specific frameworks. Some problems I have solved are the
@@ -359,6 +359,19 @@ Anthropology*
 * E.N.E.T N°17 D.E. 20 (2001 - 2006) - *Electronic Technician*
 
 * Alfonsina Storni (Primary School)
+
+---
+
+## Books
+
+* Martin Fowler, _Patterns of Enterprise Application Architecture_, 2002.
+* "The Gang of Four", _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison-Wesley, 1994.
+* Robert Martin, _Clean Architecture: A Craftsman's Guide to Software Structure and Design_, 2017.
+* Robert Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_, Pearson, 2008.
+* Steve McConnell, _Code Complete: A Practical Handbook of Software Construction_, Microsoft Press, 2004.
+* Mary and Tom Poppendieck, _Implementing Lean Software Development: From Concept to Cash_, Addison-Wesley, 2006.
+* Mary and Tom Poppendieck, _Leading Lean Software Development: Results Are Not the Point_, Addison-Wesley, 2009.
+* M. van Steen and A.S. Tanenbaum, _Distributed Systems_, distributed-systems.net, 2017.
 
 ---
 
