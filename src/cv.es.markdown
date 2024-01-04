@@ -386,21 +386,21 @@ Cultural*
 
 ## Libros
 
-Martin Fowler, _Patterns of Enterprise Application Architecture_, 2002.
+* Martin Fowler, _Patterns of Enterprise Application Architecture_, 2002.
 
-"The Gang of Four", _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison-Wesley, 1994.
+* "The Gang of Four", _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison-Wesley, 1994.
 
-Robert Martin, _Clean Architecture: A Craftsman's Guide to Software Structure and Design_, 2017.
+* Robert Martin, _Clean Architecture: A Craftsman's Guide to Software Structure and Design_, 2017.
 
-Robert Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_, Pearson, 2008.
+* Robert Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_, Pearson, 2008.
 
-Steve McConnell, _Code Complete: A Practical Handbook of Software Construction_, Microsoft Press, 2004.
+* Steve McConnell, _Code Complete: A Practical Handbook of Software Construction_, Microsoft Press, 2004.
 
-Mary and Tom Poppendieck, _Implementing Lean Software Development: From Concept to Cash_, Addison-Wesley, 2006.
+* Mary and Tom Poppendieck, _Implementing Lean Software Development: From Concept to Cash_, Addison-Wesley, 2006.
 
-Mary and Tom Poppendieck, _Leading Lean Software Development: Results Are Not the Point_, Addison-Wesley, 2009.
+* Mary and Tom Poppendieck, _Leading Lean Software Development: Results Are Not the Point_, Addison-Wesley, 2009.
 
-M. van Steen and A.S. Tanenbaum, _Distributed Systems_, distributed-systems.net, 2017.
+* M. van Steen and A.S. Tanenbaum, _Distributed Systems_, distributed-systems.net, 2017.
 
 ---
 
