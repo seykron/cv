@@ -23,9 +23,9 @@ batch processing, and CLIs, among others. I have used multiple data sources.
 
 In backend development, I worked with several stacks and frameworks in
 PHP, Java, Scala, Kotlin and NodeJS. Some problems I have solved are user
-and API authentication (SAML, OIDC), session management, transaction management,
-data access with multiple data sources, free text search, static resources management
-and compression (JavaScript, CSS, images, videos, etc.), multi-language support,
+and API authentication (SAML, OIDC), session management with role based access control (RBAC),
+transaction management, data access with multiple data sources, free text search, static resources
+management and compression (JavaScript, CSS, images, videos, etc.), multi-language support,
 geolocalization, data clustering and processing, content storage, application and
 information security, third party services integration, biometric hardware integration,
 resiliency and scalability, among others.
