@@ -388,42 +388,42 @@ Formal Education
 Books
 -----
 
-The following selection are books that I consider an essential part of
-my knowledge base. Some of them are like manuals, I always get back to
-them whenever I need to take educated decisions.
+The following selection are books I consider an essential part of my
+knowledge base. Some of them are like manuals, I always get back to them
+whenever I need to take educated decisions.
 
--   Martin Fowler, *Patterns of Enterprise Application
-    Architecture*, 2002.
-
--   "The Gang of Four", *Design Patterns: Elements of Reusable
-    Object-Oriented Software*, Addison-Wesley, 1994.
-
--   Robert Martin, *Clean Architecture: A Craftsman's Guide to Software
-    Structure and Design*, 2017.
-
--   Robert Martin, *Clean Code: A Handbook of Agile Software
-    Craftsmanship*, Pearson, 2008.
-
--   Steve McConnell, *Code Complete: A Practical Handbook of Software
-    Construction*, Microsoft Press, 2004.
-
--   Mary and Tom Poppendieck, *Implementing Lean Software Development:
-    From Concept to Cash*, Addison-Wesley, 2006.
-
--   Mary and Tom Poppendieck, *Leading Lean Software Development:
-    Results Are Not the Point*, Addison-Wesley, 2009.
-
--   M. van Steen and A.S. Tanenbaum, *Distributed Systems*,
-    distributed-systems.net, 2017.
-
--   A. Silberschatz, P. B. Galvin, G. Gagne, *Operating System Concepts
-    10th edition*, Wiley, 2021.
-
--   Daniel Bovet (Author), Marco Cesati, *Understanding the Linux Kernel
-    3rd edition*, O'Reilly Media, 2010.
-
--   Robert Love, *Linux Kernel Development 3rd edition*, Addison-Wesley
-    Professional, 2010.
+> > **Martin Fowler**, *Patterns of Enterprise Application
+> > Architecture*, 2002.
+> >
+> > **"The Gang of Four"**, *Design Patterns: Elements of Reusable
+> > Object-Oriented Software*, Addison-Wesley, 1994.
+> >
+> > **Robert Martin**, *Clean Architecture: A Craftsman's Guide to
+> > Software Structure and Design*, 2017.
+> >
+> > **Robert Martin**, *Clean Code: A Handbook of Agile Software
+> > Craftsmanship*, Pearson, 2008.
+> >
+> > **Steve McConnell**, *Code Complete: A Practical Handbook of
+> > Software Construction*, Microsoft Press, 2004.
+> >
+> > **Mary and Tom Poppendieck**, *Implementing Lean Software
+> > Development: From Concept to Cash*, Addison-Wesley, 2006.
+> >
+> > **Mary and Tom Poppendieck**, *Leading Lean Software Development:
+> > Results Are Not the Point*, Addison-Wesley, 2009.
+> >
+> > **M. van Steen and A.S. Tanenbaum**, *Distributed Systems*,
+> > distributed-systems.net, 2017.
+> >
+> > **A. Silberschatz, P. B. Galvin, G. Gagne**, *Operating System
+> > Concepts 10th edition*, Wiley, 2021.
+> >
+> > **Daniel Bovet (Author), Marco Cesati**, *Understanding the Linux
+> > Kernel 3rd edition*, O'Reilly Media, 2010.
+> >
+> > **Robert Love**, *Linux Kernel Development 3rd edition*,
+> > Addison-Wesley Professional, 2010.
 
 ------------------------------------------------------------------------
 
