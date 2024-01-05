@@ -14,35 +14,34 @@ messages:
 
 I am a software engineer with almost twenty years of experience in the software
 industry. I am a senior developer specialized in web applications and distributed
-systems. I developed web sites, classic request/response applications, rich applications
-with heavy UX and components, backend services, infrastructure services like queues and
-caches, business intelligence and data processing applications, biometrics systems,
-among others. I worked with different architectures such as web services (SOAP),
-microservices (REST), web sockets, classic request/response (MVC, streaming),
-among others. I have experience with third party APIs and data sources integration.
+systems. I developed static web sites; classic request/response applications; frontend
+applications with reactive components; different types of APIs; infrastructure services
+like job schedulers and single sign-ons; data processing applications like ETLs and scrapers;
+and biometrics systems, among others. I worked with different architectures and application models
+such as web services (SOAP), microservices (REST), web sockets, classic request/response (MVC, streaming),
+batch processing, and CLIs, among others. I have used multiple data sources.
 
-Regarding backend development, I worked with several stacks and frameworks in
+In backend development, I worked with several stacks and frameworks in
 PHP, Java, Scala, Kotlin and NodeJS. Some problems I have solved are user
-and API authentication (SAML, OIDC), session management, transactions, data
-access, free text search, distributed services interoperability, static
-resources management and compression (JavaScript, CSS, images, videos, etc.),
-multi-language support, geolocalization, data clustering and processing, content
-storage, application and information security, third party services integration,
-biometric hardware integration, resiliency and scalability, among others.
+and API authentication (SAML, OIDC), session management, transaction management,
+data access with multiple data sources, free text search, static resources management
+and compression (JavaScript, CSS, images, videos, etc.), multi-language support,
+geolocalization, data clustering and processing, content storage, application and
+information security, third party services integration, biometric hardware integration,
+resiliency and scalability, among others.
 
-Regarding frontend development, I think software design and architecture is more
-important than mastering specific frameworks. Some problems I have solved are the
-design of reusable components, optimization of resources focused on user experience,
-cross-domain operations management, customization, user-based features, state
-management and persistence, language support, among others. I have worked with
-frameworks and utilities such as Vue 2/3, charts.js, jQuery, underscore.js, backbone,
-jqueryUI, and lessCSS.
+In frontend development, I value software design and architecture more than mastering
+specific frameworks. Some problems I have solved are the implementation of reusable components,
+resource optimization focused on user experience, cross-domain communication, customization,
+user-based features, state management and persistence, multi-language features, multitenancy,
+among others. I have worked with frameworks and utilities such as Vue 2/3, React, charts.js,
+jQuery, and lessCSS. I used build tools like webpack, vite, rollup, and babel. I did write
+functional tests using cypress, puppetteer and playwright.
 
 I think team work and a quality-oriented development process is the key to build good
-products. I usually build solutions based on well-known software architecture principles,
-good practices and conventions. I think that good communication and peer review
-of code and architecture are some keys for building common knowledge and a good
-product.
+software. I build solutions based on well-known software architecture patterns,
+good practices and conventions. Good communication, peer reviews and group design are essential
+to build a common knowledge base and deliver a good product.
 
 I support the free software philosophy. I am involved in the free software
 community and I try to contribute whenever possible. In my free time I build
