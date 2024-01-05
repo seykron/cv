@@ -386,6 +386,10 @@ Cultural*
 
 ## Libros
 
+La siguiente selección son libros que considero una parte fundamental de mi formación
+profesional. Algunos son como manuales, siempre vuelvo a consultarlos cuando necesito
+tomar decisiones informadas.
+
 * Martin Fowler, _Patterns of Enterprise Application Architecture_, 2002.
 
 * "The Gang of Four", _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison-Wesley, 1994.
@@ -401,6 +405,12 @@ Cultural*
 * Mary and Tom Poppendieck, _Leading Lean Software Development: Results Are Not the Point_, Addison-Wesley, 2009.
 
 * M. van Steen and A.S. Tanenbaum, _Distributed Systems_, distributed-systems.net, 2017.
+
+* A. Silberschatz, P. B. Galvin, G. Gagne, _Operating System Concepts 10th edition_, Wiley, 2021.
+
+* Daniel Bovet (Author), Marco Cesati, _Understanding the Linux Kernel 3rd edition_, O'Reilly Media, 2010.
+
+* Robert Love, _Linux Kernel Development 3rd edition_, Addison-Wesley Professional, 2010.
 
 ---
 
