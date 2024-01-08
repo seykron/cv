@@ -23,12 +23,13 @@ batch processing, and CLIs, among others. I have used multiple data sources.
 
 In backend development, I worked with several stacks and frameworks in
 PHP, Java, Scala, Kotlin and NodeJS. Some problems I have solved are user
-and API authentication (SAML, OIDC), session management with role based access control (RBAC),
+and API authentication (SAML, OIDC), session management, access control (RBAC, ACLs),
 transaction management, data access with multiple data sources, free text search, static resources
 management and compression (JavaScript, CSS, images, videos, etc.), multi-language support,
 geolocalization, data clustering and processing, content storage, application and
 information security, third party services integration, biometric hardware integration,
-resiliency and scalability, among others.
+resiliency and scalability, among others. I worked with different CIs, source control platforms
+and infrastructure providers (AWS, GCP, DigitalOcean).
 
 In frontend development, I value software design and architecture more than mastering
 specific frameworks. Some problems I have solved are the implementation of reusable components,
@@ -39,7 +40,7 @@ jQuery, and lessCSS. I used build tools like webpack, vite, rollup, and babel. I
 functional tests using cypress, puppetteer and playwright.
 
 I think team work and a quality-oriented development process is the key to build good
-software. I build solutions based on well-known software architecture patterns,
+software. I aim to build solutions based on well-known software architecture patterns,
 good practices and conventions. Good communication, peer reviews and group design are essential
 to build a common knowledge base and deliver a good product.
 
