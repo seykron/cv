@@ -72,7 +72,7 @@ making software.
 
 * Spanish (mother tongue)
 
-* English (upper-intermediate)
+* English (advanced)
 
 * Esperanto (progresanta)
 
